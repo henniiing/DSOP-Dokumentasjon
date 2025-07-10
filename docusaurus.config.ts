@@ -41,16 +41,30 @@ const config: Config = {
       'classic',
       {
         docs: {
+          id: 'main',
+          path: 'prod-sider',
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: undefined, // Remove edit links
         },
         theme: {
           customCss: './src/css/custom.css',
         },
+        blog: false, // Disable blog
       } satisfies Preset.Options,
+    ],
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'beta',
+        path: 'beta-sider',
+        routeBasePath: '/beta',
+        sidebarPath: './sidebars-beta.ts',
+        editUrl: undefined,
+      },
     ],
   ],
 
@@ -59,7 +73,19 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'DSOP dokumentasjon',
-      items: [],
+      items: [
+        {
+          type: 'doc',
+          docId: 'index',
+          position: 'left',
+          label: 'Dokumentasjon',
+        },
+        {
+          to: '/beta',
+          label: 'Beta',
+          position: 'left',
+        },
+      ],
     },
     footer: {
       style: 'light',
