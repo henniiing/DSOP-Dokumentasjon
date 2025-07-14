@@ -1,0 +1,129 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: three
+  folders:
+  - title: Om betasiden
+    output: web
+    folderitems:
+    - title: Bruk av betasiden
+      url: /dsop_beta_om.html
+      output: web
+  - title: FI - Krav og betalinger BETA
+    output: web
+    folderitems:
+    - title: Om tjenesten
+      url: /dsop_fi_om.html
+      output: web
+    - title: Onboarding
+      url: /dsop_fi_onboarding.html
+      output: web
+    - title: Skatteetatens API
+      external_url: "https://skatteetaten.github.io/api-dokumentasjon/api/kravogbetalinger"
+      output: web
+      subfolders:
+      - title: Felleskomponenter
+        output: web
+        subfolderitems:
+        - title: Samtykke
+          external_url: "https://skatteetaten.github.io/api-dokumentasjon/om/samtykke"
+          output: web
+        - title: Integrasjon mot Maskinporten
+          url: /dsop_fi_integrasjonMaskinporten.html
+          output: web
+    - title: FAQ
+      url: /dsop_fi_faq.html
+      output: web
+    - title: Forvaltningsrutiner
+      url: /dsop_fi_forvaltningsrutiner.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_fi_endringslogg.html
+      output: web
+  - title: Politi-utlevering BETA
+    output: web
+    folderitems:
+    - title: Om Politi-Utlevering
+      url: /dsop_v2politi-utlevering_BETA_about.html
+      output: web
+    - title: Juridiske rammebetingelser
+      url: /dsop_v2politi-utlevering_BETA_juridisk.html
+      output: web
+    - title: Løsningsbeskrivelse
+      url: /dsop_v2politi-utlevering_BETA_løsningsbeskrivelse.html
+      output: web
+    - title: Beskrivelse av utleveringspålegg
+      url: /dsop_v2politi-utlevering_BETA_utleveringspålegg.html
+      output: web
+    - title: Onboarding av datakilder
+      url: /dsop_v2politi-utlevering_BETA_onboarding.html
+      output: web
+    - title: Forvaltningsrutiner
+      url: /dsop_v2politi-utlevering_operational_BETA_processes.html
+      output: web
+    - title: FAQ
+      url: /dsop_v2politi-utlevering_BETA_faq.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_v2politi-utlevering_BETA_changelog.html
+      output: web
+  - title: Skatt-Kontroll
+    output: web
+    folderitems:
+      - title: Om Skatt-Kontroll
+        url: /dsop_v2kontroll_skatt_about_BETA.html
+        output: web
+      - title: Juridiske rammebetingelser
+        url: /dsop_v2kontroll_skatt_juridisk_BETA.html
+        output: web
+      - title: Løsningsbeskrivelse
+        url: /dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA.html
+        output: web
+      - title: Onboarding for datakilder
+        url: /dsop_v2kontroll_skatt_onboarding_BETA.html
+        output: web
+      - title: Forvaltningsrutiner
+        url: /dsop_v2kontroll_skatt_operational_processes_BETA.html
+        output: web
+      - title: FAQ
+        url: /dsop_v2kontroll_skatt_faq_BETA.html
+        output: web
+      - title: Endringslogg
+        url: /dsop_v2kontroll_skatt_changelog_BETA.html
+        output: web
+  - title: FI-utlegg Saldo BETA
+    output: web
+    folderitems:
+    - title: Om FI - Utlegg
+      url: /dsop_fi-utlegg_om.html
+      output: web
+    - title: Juridiske rammebetingelser
+      url: /dsop_fi-utlegg_juridisk.html
+      output: web   
+    - title: Løsningsbeskrivelse Saldo
+      url: /dsop_fi-utlegg_saldo_løsningsbeskrivelse.html
+      output: web
+    - title: Onboarding av datakilder
+      url: /dsop_fi-utlegg_onboarding.html
+      output: web
+    - title: Forvaltningsrutiner
+      url: /dsop_fi-utlegg_operational_processes.html
+      output: web
+    - title: FAQ
+      url: /dsop_fi-utlegg_faq.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_fi-utlegg_changelog.html
+      output: web
+  - title: Status Sider
+    output: web
+    folderitems:
+    - title: Skatteetaten Systemstatus 
+      url: /system_status_skatteetaten.html
+      output: web
+    - title: Digitaliseringsdirektoratet Systemstatus 
+      url: /system_status_digitaliseringsdirektoratet.html
+      output: web 
+
+  

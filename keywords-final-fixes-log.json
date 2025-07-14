@@ -1,0 +1,16 @@
+[
+  {
+    "file": "prod-sider\\dsop_kontroll_securitydesign.md",
+    "changes": [
+      "Fixed general quote formatting in keywords"
+    ],
+    "timestamp": "2025-07-10T13:21:25.371Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_securitydesign.md",
+    "changes": [
+      "Fixed general quote formatting in keywords"
+    ],
+    "timestamp": "2025-07-10T13:21:25.375Z"
+  }
+]

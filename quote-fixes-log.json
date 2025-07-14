@@ -1,0 +1,394 @@
+[
+  {
+    "file": "beta-sider\\dsop_beta_om.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.888Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_about_BETA.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.892Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_juridisk_BETA.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.893Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.895Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_onboarding_BETA.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.896Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_avtaler_og_juridisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.903Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_fagutvalg.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.905Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_nyheter.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.907Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.912Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_juridisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.914Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_løsningsbeskrivelse_saldo.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.916Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_functionalspecification.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.933Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_funksjonalitet (utgått norsk).md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.934Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_jurdisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.936Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_om.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.937Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_datakilde_2.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.938Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_datakilde.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.940Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_landingsside.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.941Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_specification_of_eoppslag.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.945Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_spesifikasjon_av_eoppslag (utgått norsk).md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.947Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_about.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.949Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_functionalspecification.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.951Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_jurdisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.953Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.954Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_specification_of_eoppslag.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.956Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_om.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.962Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.964Z"
+  },
+  {
+    "file": "prod-sider\\dsop_oversikt_kfr.html.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.966Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_om.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.970Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.972Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.977Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_functionalspecification.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.985Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_om.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.987Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.989Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_securitydesign.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.994Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_about.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.997Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_functionalspecification.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:13.999Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_jurdisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.000Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.002Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_nav_about.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.004Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_about.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.006Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_juridisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.010Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.012Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.013Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_about.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.014Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_juridisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.016Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.017Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.018Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_about.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.021Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_juridisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.023Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.028Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.030Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_utleveringspålegg.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.032Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_about.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.033Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_juridisk.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.035Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_onboarding.md",
+    "changes": [
+      "Fixed double quotes in keywords array"
+    ],
+    "timestamp": "2025-07-10T13:19:14.037Z"
+  }
+]

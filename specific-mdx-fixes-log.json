@@ -1,0 +1,399 @@
+{
+  "timestamp": "2025-07-10T13:04:57.860Z",
+  "totalFiles": 218,
+  "fixedFiles": 57,
+  "fixes": [
+    {
+      "file": "beta-sider/dsop_beta_om.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "beta-sider/dsop_v2kontroll_skatt_about_BETA.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "beta-sider/dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_ajourhold_faq.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_Ajourhold_Integrasjon_Maskinporten.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_ajourhold_onboarding.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_fi_endringer.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_fi_integrasjonMaskinporten.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_fi_om.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_fi-utlegg_løsningsbeskrivelse_saldo.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_konkurs_faq.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_konkurs_funksjonellspesifikasjon.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_konkurs_juridiske.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_konkurs_om.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_kontroll_arkitektur (utgått norsk).md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_kontroll_faq.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_kontroll_om.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_kontroll_onboarding_datakilde_2.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_kontroll_onboarding_datakilde.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_kontroll_specification_of_eoppslag.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_kontroll_spesifikasjon_av_eoppslag (utgått norsk).md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_kundeforholdsregister_faq.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_saldostudielan_informasjonsmodellLanekassen.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_saldostudielan_integrasjonMaskinporten.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_saldostudielan_integrasjonSamtykke.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_saldostudielan_om.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_sbl_endringer.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_sbl_faq.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_sbl_integrasjonMaskinporten.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_sbl_integrasjonSamtykkeløsningen.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_su_integrasjonMaskinporten.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_su_integrasjonSamtykke.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2fellesstandard_accountdetails.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2fellesstandard_accounts.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2fellesstandard_cards.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2fellesstandard_faq.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2fellesstandard_onboarding.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2fellesstandard_specification_of_eoppslag.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2fellesstandard_transactions.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2konkurs_about.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2konkurs_functionalspecification.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2konkurs_jurdisk.md",
+      "changes": [
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2konkurs_løsningsbeskrivelse.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2kontroll_skatt_about.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2kontroll_skatt_løsningsbeskrivelse.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2oed_about.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2oed_juridisk.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2oed_løsningsbeskrivelse.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2oed_test.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2politi-utlevering_about.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2politi-utlevering_løsningsbeskrivelse.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2politi-utlevering_test.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2politi-utlevering_utleveringspålegg.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2vergekontroll_about.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2vergekontroll_juridisk.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2vergekontroll_løsningsbeskrivelse.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    },
+    {
+      "file": "prod-sider/dsop_v2vergekontroll_test.md",
+      "changes": [
+        "Fixed malformed closing tags",
+        "Fixed ampersands in tags",
+        "Applied other fixes"
+      ]
+    }
+  ]
+}

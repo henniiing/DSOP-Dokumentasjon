@@ -1,0 +1,1264 @@
+[
+  {
+    "file": "beta-sider\\dsop_beta_om.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.628Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_about_BETA.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.632Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_changelog_BETA.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.633Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_faq_BETA.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.635Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_juridisk_BETA.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.635Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_onboarding_BETA.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.637Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_operational_processes_BETA.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.638Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold _Nav_api.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.640Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_endringer.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.641Z"
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.642Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_faq.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.644Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_Forvaltningsrutiner.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.645Z"
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Integrasjon_Maskinporten.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.646Z"
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Integrasjonstest.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.647Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.649Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_onboarding.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.650Z"
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_skatteetaten_api.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.651Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_about.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.653Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_dialogporten.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.654Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_innboks.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.655Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_samtykkeløsningen.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.656Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_systembruker.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.657Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_tilgangspakker.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.658Z"
+  },
+  {
+    "file": "prod-sider\\dsop_digitaleiendomshandel_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.659Z"
+  },
+  {
+    "file": "prod-sider\\dsop_digitaleiendomshandel_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.660Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dse_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.661Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.663Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_fagutvalg.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.664Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_kontakt.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.667Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_endringer.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.670Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.671Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_faq.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.671Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_forvaltningsrutiner.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.673Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_integrasjonMaskinporten.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.674Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.675Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_changelog.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.676Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_juridisk.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.676Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.678Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_onboarding.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.679Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.680Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_api.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.681Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.682Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_faq.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.683Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_jurdiskerammebetingelser.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.685Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_juridiske.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.686Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_apispek.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.687Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_datamodell.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.688Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_eoppslag.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.689Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_forvaltningsrutiner.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.691Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_funksjonellspesifikasjon.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.692Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_onboardingsguide.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.694Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_sikkerhet.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.695Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.696Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_onboardingsguide.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.697Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_test.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.698Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_validering.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value",
+      "Added quotes to title with special characters"
+    ],
+    "timestamp": "2025-07-10T13:16:32.699Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_api_specifications.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.700Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountdetails_v1_2.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.701Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountdetails.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.703Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountlist_v1_2.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.704Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountlist.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.705Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apicards_v1_2.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.706Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apicards.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.707Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiroles_v1_2.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.709Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiroles.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.711Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apitransactions_v1_2.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.712Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apitransactions.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.713Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_architecturedocument.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.714Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_arkitektur (utgått norsk).md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.715Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_changemanagement.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.716Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_dataelementer (utgått).md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.717Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_datamodel.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.718Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.719Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_endringsloggv10tilv11.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.720Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_errorhandling.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.721Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_information_from_and_to_public_agencies.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.722Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_om.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.723Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_landingsside.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.724Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.725Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_questionmanagement.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.726Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_test.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.728Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_validation.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.730Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_about.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.732Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_api_specifications.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.733Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_architecturedocument.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.734Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_changelog.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.735Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_datamodel.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.736Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_onboarding.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.738Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.739Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_test.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.740Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_validation.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.740Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.741Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_om.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.742Z"
+  },
+  {
+    "file": "prod-sider\\dsop_oed_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.743Z"
+  },
+  {
+    "file": "prod-sider\\dsop_oversikt_kfr.html.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.744Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.746Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_endringer.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.751Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.752Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_faq.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.754Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonMaskinporten.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.755Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonstest.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.756Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_listefinansforetak.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.757Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.759Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_API_referanse.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.760Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_endringslogg.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.761Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_faq.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.762Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_forvaltningsrutiner.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.764Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonMaskinporten.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.766Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonstest.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.767Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.768Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_onboarding.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.769Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_registrering.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.770Z"
+  },
+  {
+    "file": "prod-sider\\dsop_transportloyvegaranti_om.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.771Z"
+  },
+  {
+    "file": "prod-sider\\dsop_transportloyvegaranti_onboarding.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.773Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountdetails.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.774Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accounts.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.775Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountservicingprovider.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.776Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_api_specifications.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.777Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_architecturedocument.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.781Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_cards.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.782Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_changelog.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.784Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_customerrelationships.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.785Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_datamodel.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.786Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_glossary.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.788Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.789Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_roles.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.790Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_securitydesign.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.791Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_specification_of_eoppslag.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.792Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_test.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.793Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_transactions.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.795Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_validation.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.796Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_about.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.797Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_changelog.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.798Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.801Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding_konkursvarsel.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.802Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.803Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.805Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_test.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.806Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_nav_about.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.806Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_about.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.807Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_changelog.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.808Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_faq.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.809Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_juridisk.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.810Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_onboarding.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.811Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.812Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_about.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.813Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_changelog.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.814Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_juridisk.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.816Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_onboarding.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.817Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.818Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_about.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.820Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_changelog.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.821Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_onboarding.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.823Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.824Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_test.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.825Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_about.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.826Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_changelog.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.827Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_juridisk.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.828Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.830Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_onboarding.md",
+    "changes": [
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.831Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_operational_processes.md",
+    "changes": [
+      "Fixed malformed keywords array with list item",
+      "Fixed toc boolean value"
+    ],
+    "timestamp": "2025-07-10T13:16:32.833Z"
+  }
+]

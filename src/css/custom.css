@@ -49,3 +49,56 @@
 .navbar__title {
   color: white !important;
 }
+
+/* Custom styles for Jekyll compatibility */
+.markdown > h1:first-child {
+  margin-top: 0;
+}
+
+/* Preserve Jekyll-style formatting */
+.markdown table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.markdown table th,
+.markdown table td {
+  border: 1px solid var(--ifm-table-border-color);
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.markdown table th {
+  background-color: var(--ifm-table-head-background);
+  font-weight: bold;
+}
+
+/* Ensure proper spacing for content */
+.markdown p {
+  margin-bottom: 1rem;
+}
+
+/* Custom styling for code blocks */
+.markdown pre {
+  margin: 1rem 0;
+}
+
+/* Style for external links in navigation */
+.navbar__item .navbar__link[href^="http"] {
+  display: inline-flex;
+  align-items: center;
+}
+
+.navbar__item .navbar__link[href^="http"]::after {
+  content: '↗';
+  margin-left: 0.25rem;
+  font-size: 0.8em;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .markdown table {
+    font-size: 0.9rem;
+  }
+}

@@ -1,0 +1,415 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: three
+  folders:
+  - title: DSOP
+    output: web
+    folderitems:
+    - title: Om DSOP-prosjektene
+      url: /index.html
+      output: web
+    - title: Kontaktinformasjon
+      url: /dsop_dsop_kontakt.html
+      output: web
+    - title: Avtaler og juridiske rammebetingelser
+      url: /dsop_dsop_avtaler_og_juridisk.html
+      output: web
+    - title: Fagutvalg
+      url: /dsop_dsop_fagutvalg.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_dsop_endringslogg.html
+      output: web
+  - title: Samtykkebasert lånesøknad
+    output: web
+    folderitems:
+    - title: Om tjenesten
+      url: /dsop_sbl_om.html
+      output: web
+    - title: Onboarding
+      url: /dsop_sbl_onboarding.html
+      output: web
+    - title: Skatteetatens API'er
+      external_url: "https://skatteetaten.github.io/api-dokumentasjon/"
+      output: web
+      subfolders:
+      - title: Felleskomponenter
+        output: web
+        subfolderitems:
+        - title: Altinns samtykkeløsning
+          external_url: "https://altinn.github.io/docs/utviklingsguider/samtykke/datakonsument/"
+          output: web
+        - title: Integrasjon mot Maskinporten
+          url: /dsop_sbl_integrasjonMaskinporten.html
+          output: web
+        - title: Integrasjon mot Samtykkeløsningen
+          url: /dsop_sbl_integrasjonSamtykkeløsningen.html
+          output: web  
+    - title: Integrasjonstest
+      url: /dsop_sbl_integrasjonstest.html
+      output: web
+    - title: Rapport ytelsesverifikasjon
+      external_url: "assets/Rapport-ytelsesverifikasjon-SBL.pdf"
+      output: web
+    - title: FAQ
+      url: /dsop_sbl_faq.html
+      output: web
+    - title: Forvaltningsrutiner
+      external_url: "assets/DSOP - Forvaltningsprosesser SBL.pdf"
+      output: web
+    - title: Endringer for tjenesten
+      url: /dsop_sbl_endringer.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_sbl_endringslogg.html
+      output: web
+  - title: Kontrollinformasjon Fellesstandard
+    output: web
+    folderitems:
+      - title: About DSOP Control Common Standard
+        url: /dsop_v2fellesstandard_om.html
+        output: web
+      - title: Onboarding guide for financial institutions
+        url: /dsop_v2fellesstandard_onboarding.html
+        output: web
+      - title: Internal testing and quality assurance
+        url: /dsop_v2fellesstandard_test.html
+        output: web
+      - title: Functional specification
+        url: /dsop_v2fellesstandard_functionalspecification.html
+        output: web
+      - title: Overall description of the DSOP Control API
+        url: /dsop_v2fellesstandard_specification_of_eoppslag.html
+        output: web
+      - title: Architecture documentation
+        url: /dsop_v2fellesstandard_architecturedocument.html
+        output: web
+      - title: Security documentation
+        url: /dsop_v2fellesstandard_securitydesign.html
+        output: web
+      - title: Data Model
+        url: /dsop_v2fellesstandard_datamodel.html
+        output: web
+      - title: API-specification
+        url: /dsop_v2fellesstandard_api_specification.html
+        output: web
+      - title: Generic validation of requests
+        url: /dsop_v2fellesstandard_validation.html
+        output: web
+      - title: Operational processes
+        url: /dsop_v2fellesstandard_operational_processes.html
+        output: web
+      - title: Glossary
+        url: /dsop_v2fellesstandard_glossary.html
+        output: web
+      - title: FAQ
+        url: /dsop_v2fellesstandard_faq.html
+        output: web
+      - title: Change log
+        url: /dsop_v2fellesstandard_changelog.html
+        output: web
+  - title: Konkursbehandling
+    output: web
+    folderitems:
+      - title: Om konkursbehandling
+        url: /dsop_v2konkurs_about.html
+        output: web
+      - title: Juridiske rammebetingelser
+        url: /dsop_v2konkurs_juridisk.html
+        output: web
+      - title: Løsningsbeskrivelse
+        url: /dsop_v2konkurs_løsningsbeskrivelse.html
+        output: web
+      - title: Onboarding for datakilder
+        url: /dsop_v2konkurs_onboarding.html
+        output: web
+      - title: Forvaltningsrutiner
+        url: /dsop_v2konkurs_operational_processes.html
+        output: web
+      - title: FAQ
+        url: /dsop_v2konkurs_faq.html
+        output: web
+      - title: Endringslogg
+        url: /dsop_v2konkurs_changelog.html
+        output: web
+  - title: Politi-Utlevering
+    output: web
+    folderitems:
+      - title: Om Politi-Utlevering
+        url: /dsop_v2politi-utlevering_about.html
+        output: web
+  - title: Skatt-Kontroll
+    output: web
+    folderitems:
+      - title: Om Skatt-Kontroll
+        url: /dsop_v2kontroll_skatt_about.html
+        output: web
+      - title: Juridiske rammebetingelser
+        url: /dsop_v2kontroll_skatt_juridisk.html
+        output: web
+      - title: Løsningsbeskrivelse
+        url: /dsop_v2kontroll_skatt_løsningsbeskrivelse.html
+        output: web
+      - title: Onboarding for datakilder
+        url: /dsop_v2kontroll_skatt_onboarding.html
+        output: web
+      - title: Forvaltningsrutiner
+        url: /dsop_v2kontroll_skatt_operational_processes.html
+        output: web
+      - title: FAQ
+        url: /dsop_v2kontroll_skatt_faq.html
+        output: web
+      - title: Endringslogg
+        url: /dsop_v2kontroll_skatt_changelog.html
+        output: web
+  - title: Vergekontroll
+    output: web
+    folderitems:
+      - title: Om Vergekontroll
+        url: /dsop_v2vergekontroll_about.html
+        output: web
+      - title: Juridiske rammebetingelser
+        url: /dsop_v2vergekontroll_juridisk.html
+        output: web
+      - title: Løsningsbeskrivelse
+        url: /dsop_v2vergekontroll_løsningsbeskrivelse.html
+        output: web
+      - title: Onboarding for datakilder
+        url: /dsop_v2vergekontroll_onboarding.html
+        output: web
+      - title: Forvaltningsrutiner
+        url: /dsop_v2vergekontroll_operational_processes.html
+        output: web
+      - title: FAQ
+        url: /dsop_v2vergekontroll_faq.html
+        output: web
+      - title: Endringslogg
+        url: /dsop_v2vergekontroll_changelog.html
+        output: web
+  - title: Oppgjør etter dødsfall
+    output: web
+    folderitems:
+      - title: Om Oppgjør etter dødsfall
+        url: /dsop_v2oed_about.html
+        output: web
+      - title: Juridiske rammebetingelser
+        url: /dsop_v2oed_juridisk.html
+        output: web
+      - title: Løsningsbeskrivelse
+        url: /dsop_v2oed_løsningsbeskrivelse.html
+        output: web
+      - title: Onboarding for datakilder
+        url: /dsop_v2oed_onboarding.html
+        output: web
+      - title: Forvaltningsrutiner
+        url: /dsop_v2oed_operational_processes.html
+        output: web
+      - title: FAQ
+        url: /dsop_v2oed_faq.html
+        output: web
+      - title: Endringslogg
+        url: /dsop_v2oed_changelog.html
+        output: web
+  - title: Syke- og uføreopplysninger fra NAV
+    output: web
+    folderitems:
+    - title: Om tjenesten
+      url: /dsop_su_om.html
+      output: web
+    - title: Onboarding
+      url: /dsop_su_onboarding.html
+      output: web
+    - title: API-dokumentasjon
+      url: /dsop_su_api_dokumentasjon.html
+      output: web
+    - title: Integrasjonstest
+      url: /dsop_su_integrasjontest.html
+      output: web
+      subfolders:
+      - title: Felleskomponenter
+        output: web
+        subfolderitems:
+        - title: Integrasjon mot Maskinporten
+          url: /dsop_su_integrasjonMaskinporten.html
+          output: web
+        - title: Integrasjon mot Samtykkeløsning
+          url: /dsop_su_integrasjonSamtykke.html
+          output: web
+    - title: Forvaltningsrutiner
+      url: /dsop_su_forvaltningsrutiner.html
+      output: web
+    - title: FAQ
+      url: /dsop_su_faq.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_su_endringslogg.html
+      output: web
+  - title: Kundeforholdsregister
+    output: web
+    folderitems:
+    - title: Om tjenesten
+      url: /dsop_kundeforholdsregister_om.html
+      output: web
+    - title: Onboarding
+      url: /dsop_kundeforholdsregister_onboarding.html
+      output: web
+    - title: API-spesifikasjon
+      external_url: "https://bitsnorge.github.io/dsop-kfr-api/#/"
+      output: web
+    - title: Maskinporten
+      external_url: "https://www.digdir.no/digitale-felleslosninger/maskinporten/869"
+      output: web
+    - title: Finansforetak i KFR
+      url: /dsop_oversikt_kfr.html
+      output: web
+    - title: FAQ
+      url: /dsop_kundeforholdsregister_faq.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_kundeforholdsregister_endringslogg.html
+      output: web
+  - title: Saldo på studielån
+    output: web
+    folderitems:
+    - title: Om tjenesten
+      url: /dsop_saldostudielan_om.html
+      output: web
+    - title: Onboarding
+      url: /dsop_saldostudielan_onboarding.html
+      output: web
+    - title: Integrasjon mot Lånekassen
+      url: "/dsop_saldostudielan_integrasjonLanekassen.html"
+      output: web
+      subfolders:
+      - title: Felleskomponenter
+        output: web
+        subfolderitems:
+        - title: Integrasjon mot Samtykkeløsningen
+          url: "/dsop_saldostudielan_integrasjonSamtykke.html"
+          output: web
+        - title: Integrasjon mot Maskinporten
+          url: "/dsop_saldostudielan_integrasjonMaskinporten.html"
+          output: web
+    - title: API-spesifikasjon
+      external_url: "https://bitsnorge.github.io/dsop-saldo-studielan-api/"
+      output: web
+    - title: Informasjonsmodell Lånekassen
+      url: /dsop_saldostudielan_informasjonsmodellLanekassen.html
+      output: web
+    - title: Integrasjonstest
+      url: /dsop_saldostudielan_integrasjonstest.html
+      output: web
+    - title: Logo
+      url: /dsop_saldostudielan_logoLanekassen.html
+      output: web
+    - title: Forvaltningsrutiner
+      external_url: "assets/Forvaltningsrutiner_saldostudielan.pdf"
+      output: web
+    - title: FAQ
+      url: /dsop_saldostudielan_faq.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_saldostudielan_endringslogg.html
+      output: web
+  - title: Data for ajourhold av OTP i privat sektor
+    output: web
+    folderitems:
+    - title: Om tjenesten
+      url: /dsop_ajourhold_om.html
+      output: web
+    - title: Onboarding
+      url: /dsop_ajourhold_onboarding.html
+      output: web
+    - title: Skatteetatens informasjonsmodeller, API og testdata
+      url: /dsop_skatteetaten_api.html
+      output: web
+    - title: NAVs informasjonsmodell, API og testdata
+      url: /dsop_Nav_api.html
+      output: web
+      subfolders:
+      - title: Felleskomponenter
+        output: web
+        subfolderitems:
+        - title: Integrasjon mot Maskinporten
+          url: /dsop_ajourhold_Integrasjonmaskinporten.html
+          output: web
+    - title: Integrasjonstest
+      url: /dsop_ajourhold_integrasjonstest.html
+      output: web
+    - title: Forvaltningsrutiner
+      url: /dsop_ajourhold_forvaltningsrutiner.html
+      output: web
+    - title: FAQ
+      url: /dsop_ajourhold_faq.html
+      output: web
+    - title: Endringer for tjenesten 
+      url: /dsop_ajourhold_endringer.html
+      output: web
+    - title: Endringslogg
+      url: /dsop_ajourhold_Endringslogg.html
+      output: web
+  - title: Data om signatur og prokura for virksomheter
+    output: web
+    folderitems:
+    - title: Om tjenesten
+      external_url: "https://wiki.brreg.no/spaces/DSB/pages/47022102/Bakgrunn+form%C3%A5l+og+effektm%C3%A5l"
+      output: web
+    - title: API-dokumentasjon
+      external_url: "https://data.brreg.no/fullmakt/docs/index.html"
+      output: web
+  - title: Transportløyvegaranti
+    output: web
+    folderitems:
+      - title: Om tjenesten
+        url: /dsop_transportloyvegaranti_om.html
+        output: web
+      - title: Onboarding
+        url: /dsop_transportloyvegaranti_onboarding.html
+        output: web
+      - title: Forvaltningsrutiner
+        external_url: "assets/Forvaltningsprosesser-Transportloyvegaranti.pdf"
+        output: web
+  - title: Digital samhandling ved eiendomshandel
+    output: web
+    folderitems:
+      - title: Om tjenesten
+        url: /dsop_digitaleiendomshandel_om.html
+        output: web
+      - title: Dokumentasjon om tjenesten
+        external_url: "https://github.com/bitsnorge/e-tinglysing-afpant"
+        output: web
+      - title: Endringslogg
+        url: /dsop_digitaleiendomshandel_endringslogg.html
+        output: web
+  - title: Digital selskapsetablering
+    output: web
+    folderitems:
+    - title: Om tjenesten
+      external_url: "https://wiki.brreg.no/display/DSB/Digital+selskapsetablering+-+brukerdokumentasjon"
+      output: web
+    - title: Hvordan bruke API for faste tekster for Aktivitet/bransje
+      external_url: "https://wiki.brreg.no/pages/viewpage.action?pageId=47022232"
+      output: web
+  - title: Altinn 3.0
+    output: web
+    folderitems:
+    - title: Om Altinn 3.0
+      url: /dsop_altinn3.0_about.html
+      output: web
+    - title: Tilgangspakker
+      url: /dsop_altinn3.0_tilgangspakker.html
+      output: web
+    - title: Samtykkeløsningen
+      url: /dsop_altinn3.0_samtykkeløsningen.html
+      output: web
+    - title: Systembruker
+      url: /dsop_altinn3.0_systembruker.html
+      output: web
+    - title: Dialogporten
+      url: /dsop_altinn3.0_dialogporten.html
+      output: web
+    - title: Ny innboks/arbeidsflate
+      url: /dsop_altinn3.0_innboks.html
+      output: web

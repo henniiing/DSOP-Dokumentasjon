@@ -1,0 +1,1504 @@
+[
+  {
+    "file": "beta-sider\\dsop_beta_om.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.247Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_about_BETA.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.250Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_changelog_BETA.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.252Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.254Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_onboarding_BETA.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.255Z"
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_operational_processes_BETA.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.256Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold _Nav_api.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.258Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_endringer.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.260Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_faq.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.262Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_Forvaltningsrutiner.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.263Z"
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Integrasjon_Maskinporten.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.263Z"
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Integrasjonstest.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.265Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_om.md",
+    "changes": [
+      "Fixed malformed JSX expressions",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.266Z"
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.268Z"
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_skatteetaten_api.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.269Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_dialogporten.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.270Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_innboks.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.271Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_samtykkeløsningen.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.272Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_systembruker.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.273Z"
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_tilgangspakker.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.274Z"
+  },
+  {
+    "file": "prod-sider\\dsop_digitaleiendomshandel_om.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.275Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dse_om.md",
+    "changes": [
+      "Fixed malformed JSX expressions",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.276Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_avtaler_og_juridisk.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.277Z"
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_kontakt.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.278Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_endringer.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.279Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_forvaltningsrutiner.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.280Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_integrasjonMaskinporten.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.281Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_om.md",
+    "changes": [
+      "Fixed malformed JSX expressions",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.283Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.285Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_changelog.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.286Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_juridisk.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.287Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_løsningsbeskrivelse_saldo.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.288Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_om.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.289Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.290Z"
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_operational_processes.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.291Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_api.md",
+    "changes": [
+      "Fixed malformed JSX expressions"
+    ],
+    "timestamp": "2025-07-10T13:30:29.293Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_endringslogg.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.296Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_faq.md",
+    "changes": [
+      "Fixed malformed JSX expressions"
+    ],
+    "timestamp": "2025-07-10T13:30:29.297Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_funksjonellspesifikasjon.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.298Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_jurdiskerammebetingelser.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.299Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_juridiske.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.300Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_apispek.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.302Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_datamodell.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.304Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_eoppslag.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.305Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_forvaltningsrutiner.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.306Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_funksjonellspesifikasjon.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.308Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_onboardingsguide.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.310Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_sikkerhet.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.311Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_om.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.312Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_onboardingsguide.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.313Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_test.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.314Z"
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_validering.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.315Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountdetails_v1_2.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.351Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountdetails.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.383Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountlist_v1_2.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.411Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountlist.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.434Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apicards_v1_2.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.435Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apicards.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.436Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiroles_v1_2.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.437Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiroles.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.438Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apitransactions_v1_2.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.439Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apitransactions.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.440Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_architecturedocument.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.441Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_arkitektur (utgått norsk).md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.442Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_dataelementer (utgått).md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.444Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_datamodel.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.445Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_faq.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.446Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_functionalspecification.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.447Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_funksjonalitet (utgått norsk).md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.448Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_jurdisk.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.449Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_om.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.450Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_datakilde_2.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.451Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_datakilde.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.452Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_operational_processes.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.453Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_specification_of_eoppslag.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.455Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_spesifikasjon_av_eoppslag (utgått norsk).md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.456Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_test.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.457Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_validation.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.458Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_jurdisk.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.459Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_faq.md",
+    "changes": [
+      "Fixed unclosed quotes in attributes",
+      "Fixed malformed JSX expressions"
+    ],
+    "timestamp": "2025-07-10T13:30:29.461Z"
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.462Z"
+  },
+  {
+    "file": "prod-sider\\dsop_oversikt_kfr.html.md",
+    "changes": [
+      "Fixed malformed JSX expressions"
+    ],
+    "timestamp": "2025-07-10T13:30:29.463Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_faq.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.464Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_informasjonsmodellLanekassen.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.466Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonMaskinporten.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.467Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonSamtykke.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.468Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonstest.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.469Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_logoLanekassen.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.470Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_om.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.471Z"
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.472Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_endringer.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.473Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_faq.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.474Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonMaskinporten.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.475Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonSamtykkeløsningen.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.476Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonstest.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.477Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_listefinansforetak.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.477Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_om.md",
+    "changes": [
+      "Fixed malformed JSX expressions",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.478Z"
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.479Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_faq.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.482Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_forvaltningsrutiner.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.483Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonMaskinporten.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.484Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonSamtykke.md",
+    "changes": [
+      "Fixed malformed JSX expressions"
+    ],
+    "timestamp": "2025-07-10T13:30:29.486Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonstest.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.486Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_om.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.487Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.488Z"
+  },
+  {
+    "file": "prod-sider\\dsop_su_registrering.md",
+    "changes": [
+      "Fixed malformed JSX expressions"
+    ],
+    "timestamp": "2025-07-10T13:30:29.489Z"
+  },
+  {
+    "file": "prod-sider\\dsop_transportloyvegaranti_om.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.490Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountdetails.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.491Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accounts.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.492Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountservicingprovider.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.493Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_api_specifications.md",
+    "changes": [
+      "Fixed malformed JSX expressions"
+    ],
+    "timestamp": "2025-07-10T13:30:29.494Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_architecturedocument.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.495Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_cards.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.495Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_customerrelationships.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.496Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_datamodel.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.497Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_faq.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.500Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_functionalspecification.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.501Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_glossary.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.502Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_om.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.503Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.504Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_operational_processes.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.505Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_roles.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.515Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_specification_of_eoppslag.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.516Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_test.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.517Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_transactions.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.519Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_about.md",
+    "changes": [
+      "Fixed malformed JSX expressions",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.522Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_changelog.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.523Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_functionalspecification.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.524Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_jurdisk.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.525Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.526Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding_konkursvarsel.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.527Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.528Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_operational_processes.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.529Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_about.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.530Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_changelog.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.531Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.534Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.536Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_operational_processes.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.538Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_about.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.541Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_changelog.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.542Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_juridisk.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed < character in attribute values",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.543Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.545Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.546Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_operational_processes.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.546Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_test.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed < character in attribute values",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.549Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_about.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.552Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.554Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.555Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_operational_processes.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.556Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_test.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed < character in attribute values",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.558Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_utleveringspålegg.md",
+    "changes": [
+      "Fixed malformed JSX expressions",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.559Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_about.md",
+    "changes": [
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.560Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_changelog.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.560Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_juridisk.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed < character in attribute values",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.562Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_løsningsbeskrivelse.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.563Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_onboarding.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.564Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_operational_processes.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed malformed JSX expressions",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing"
+    ],
+    "timestamp": "2025-07-10T13:30:29.568Z"
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_test.md",
+    "changes": [
+      "Fixed malformed self-closing tags",
+      "Fixed unclosed quotes in attributes",
+      "Fixed < character in attribute values",
+      "Fixed / character in attribute names",
+      "Fixed HTML tag spacing",
+      "Fixed special characters"
+    ],
+    "timestamp": "2025-07-10T13:30:29.571Z"
+  },
+  {
+    "file": "README.md",
+    "changes": [
+      "Fixed malformed JSX expressions"
+    ],
+    "timestamp": "2025-07-10T13:30:29.572Z"
+  }
+]
