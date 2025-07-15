@@ -1,0 +1,2176 @@
+[
+  {
+    "file": "prod-sider\\dsop_ajourhold _Nav_api.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_endringer.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_Forvaltningsrutiner.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Integrasjonstest.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Integrasjon_Maskinporten.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_skatteetaten_api.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_dialogporten.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_innboks.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_samtykkeløsningen.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_systembruker.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_tilgangspakker.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_digitaleiendomshandel_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_digitaleiendomshandel_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_dse_om.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_avtaler_og_juridisk.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_kontakt.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_changelog.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_juridisk.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_løsningsbeskrivelse_saldo.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_operational_processes.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi_endringer.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi_forvaltningsrutiner.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi_integrasjonMaskinporten.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_fi_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_api.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_faq.md",
+    "fixes": [
+      "Fixed 30 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_funksjonellspesifikasjon.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_jurdiskerammebetingelser.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_juridiske.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_apispek.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_datamodell.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_eoppslag.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_forvaltningsrutiner.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_funksjonellspesifikasjon.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_onboardingsguide.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_sikkerhet.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_onboardingsguide.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_validering.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_api_specifications.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_architecturedocument.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_datamodel.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_functionalspecification.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_jurdisk.md",
+    "fixes": [
+      "Fixed 24 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_operational_processes.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_specification_of_eoppslag.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_validation.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountdetails.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountdetails_v1_2.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountlist.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountlist_v1_2.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apicards.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apicards_v1_2.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiroles.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiroles_v1_2.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apitransactions.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apitransactions_v1_2.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_api_specifications.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_architecturedocument.md",
+    "fixes": [
+      "Fixed 14 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_arkitektur (utgått norsk).md",
+    "fixes": [
+      "Fixed 46 backslashes",
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_dataelementer (utgått).md",
+    "fixes": [
+      "Fixed 20 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_datamodel.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_endringsloggv10tilv11.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_faq.md",
+    "fixes": [
+      "Fixed 77 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_functionalspecification.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_funksjonalitet (utgått norsk).md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_jurdisk.md",
+    "fixes": [
+      "Fixed 8 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_om.md",
+    "fixes": [
+      "Fixed 9 backslashes",
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_datakilde.md",
+    "fixes": [
+      "Fixed 93 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_datakilde_2.md",
+    "fixes": [
+      "Fixed 45 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_landingsside.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_operational_processes.md",
+    "fixes": [
+      "Fixed 10 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_specification_of_eoppslag.md",
+    "fixes": [
+      "Fixed 56 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_spesifikasjon_av_eoppslag (utgått norsk).md",
+    "fixes": [
+      "Fixed 53 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_test.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_validation.md",
+    "fixes": [
+      "Fixed 9 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_faq.md",
+    "fixes": [
+      "Fixed 48 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_onboarding.md",
+    "fixes": [
+      "Fixed 83 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_oversikt_kfr.html.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_faq.md",
+    "fixes": [
+      "Fixed 43 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_informasjonsmodellLanekassen.md",
+    "fixes": [
+      "Fixed 84 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonLanekassen.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed 93 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonSamtykke.md",
+    "fixes": [
+      "Fixed 181 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonstest.md",
+    "fixes": [
+      "Fixed 10 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_logoLanekassen.md",
+    "fixes": [
+      "Fixed 10 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_om.md",
+    "fixes": [
+      "Fixed 60 backslashes",
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_onboarding.md",
+    "fixes": [
+      "Fixed 74 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_endringer.md",
+    "fixes": [
+      "Fixed 38 backslashes",
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_faq.md",
+    "fixes": [
+      "Fixed 5 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed 19 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonSamtykkeløsningen.md",
+    "fixes": [
+      "Fixed 172 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonstest.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_om.md",
+    "fixes": [
+      "Fixed 3 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_onboarding.md",
+    "fixes": [
+      "Fixed 38 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_API_referanse.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_faq.md",
+    "fixes": [
+      "Fixed 34 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_forvaltningsrutiner.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed 19 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonSamtykke.md",
+    "fixes": [
+      "Fixed 167 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonstest.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_om.md",
+    "fixes": [
+      "Fixed 5 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_onboarding.md",
+    "fixes": [
+      "Fixed 47 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_registrering.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_transportloyvegaranti_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountdetails.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accounts.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountservicingprovider.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_api_specifications.md",
+    "fixes": [
+      "Fixed 52 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_architecturedocument.md",
+    "fixes": [
+      "Fixed 8 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_cards.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_changelog.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_customerrelationships.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_datamodel.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_faq.md",
+    "fixes": [
+      "Fixed 86 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_functionalspecification.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_glossary.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_om.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_onboarding.md",
+    "fixes": [
+      "Fixed 78 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_operational_processes.md",
+    "fixes": [
+      "Fixed 27 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_roles.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_specification_of_eoppslag.md",
+    "fixes": [
+      "Fixed 56 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_test.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_transactions.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_validation.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_about.md",
+    "fixes": [
+      "Fixed 15 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_changelog.md",
+    "fixes": [
+      "Fixed 12 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_functionalspecification.md",
+    "fixes": [
+      "Fixed 29 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_jurdisk.md",
+    "fixes": [
+      "Fixed 7 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 17 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding.md",
+    "fixes": [
+      "Fixed 26 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding_konkursvarsel.md",
+    "fixes": [
+      "Fixed 21 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_operational_processes.md",
+    "fixes": [
+      "Fixed 24 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_changelog.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 42 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_onboarding.md",
+    "fixes": [
+      "Fixed 8 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_operational_processes.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_changelog.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_juridisk.md",
+    "fixes": [
+      "Fixed 8 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 30 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_onboarding.md",
+    "fixes": [
+      "Fixed 25 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_operational_processes.md",
+    "fixes": [
+      "Fixed 25 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_test.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_changelog.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 44 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_onboarding.md",
+    "fixes": [
+      "Fixed 25 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_operational_processes.md",
+    "fixes": [
+      "Fixed 23 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_test.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_utleveringspålegg.md",
+    "fixes": [
+      "Fixed 29 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_changelog.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_juridisk.md",
+    "fixes": [
+      "Fixed 17 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 71 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_onboarding.md",
+    "fixes": [
+      "Fixed 25 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_operational_processes.md",
+    "fixes": [
+      "Fixed 23 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_test.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_beta_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_about_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_changelog_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_faq_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_onboarding_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_operational_processes_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_ajourhold _Nav_api.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_ajourhold_endringer.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_Ajourhold_Endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_ajourhold_faq.md",
+    "fixes": [
+      "Fixed 38 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_ajourhold_Forvaltningsrutiner.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_Ajourhold_Integrasjonstest.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_Ajourhold_Integrasjon_Maskinporten.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_ajourhold_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_ajourhold_onboarding.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_Ajourhold_skatteetaten_api.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_altinn3.0_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_altinn3.0_dialogporten.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_altinn3.0_innboks.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_altinn3.0_systembruker.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_altinn3.0_tilgangspakker.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_beta_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_digitaleiendomshandel_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_dse_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_dsop_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_dsop_kontakt.md",
+    "fixes": [
+      "Fixed 3 unescaped ampersands"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi-utlegg_løsningsbeskrivelse_saldo.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi-utlegg_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi-utlegg_operational_processes.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi_endringer.md",
+    "fixes": [
+      "Fixed 3 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi_forvaltningsrutiner.md",
+    "fixes": [
+      "Fixed 10 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi_om.md",
+    "fixes": [
+      "Fixed 6 unescaped ampersands"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_fi_onboarding.md",
+    "fixes": [
+      "Fixed 4 unescaped ampersands"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_faq.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_jurdiskerammebetingelser.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_juridiske.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_landingsside_apispek.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_landingsside_datamodell.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_landingsside_eoppslag.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_landingsside_forvaltningsrutiner.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_landingsside_funksjonellspesifikasjon.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_landingsside_onboardingsguide.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_landingsside_sikkerhet.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_om.md",
+    "fixes": [
+      "Fixed 16 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_onboardingsguide.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_konkurs_validering.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_api_specifications.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_architecturedocument.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_datamodel.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_functionalspecification.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_jurdisk.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_operational_processes.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_specification_of_eoppslag.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontrollinformasjon_validation.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apiaccountdetails.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apiaccountdetails_v1_2.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apiaccountlist.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apiaccountlist_v1_2.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apicards.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apicards_v1_2.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apiroles.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apiroles_v1_2.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apitransactions.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_apitransactions_v1_2.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_api_specifications.md",
+    "fixes": [
+      "Fixed 1 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_architecturedocument.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_arkitektur (utgått norsk).md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_dataelementer (utgått).md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_datamodel.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_endringsloggv10tilv11.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_faq.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_functionalspecification.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_funksjonalitet (utgått norsk).md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_jurdisk.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_onboarding_datakilde.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_onboarding_datakilde_2.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_onboarding_landingsside.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_operational_processes.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_specification_of_eoppslag.md",
+    "fixes": [
+      "Fixed 8 backslashes",
+      "Fixed 3 unescaped ampersands",
+      "Removed 3 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_spesifikasjon_av_eoppslag (utgått norsk).md",
+    "fixes": [
+      "Fixed 6 backslashes",
+      "Fixed 3 unescaped ampersands",
+      "Removed 3 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kontroll_validation.md",
+    "fixes": [
+      "Fixed 4 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kundeforholdsregister_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kundeforholdsregister_faq.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kundeforholdsregister_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_kundeforholdsregister_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_oversikt_kfr.html.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_faq.md",
+    "fixes": [
+      "Fixed 3 unescaped ampersands"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_informasjonsmodellLanekassen.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_integrasjonLanekassen.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed 12 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_integrasjonSamtykke.md",
+    "fixes": [
+      "Fixed 12 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_logoLanekassen.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_om.md",
+    "fixes": [
+      "Fixed 3 unescaped ampersands"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_saldostudielan_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_endringer.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_integrasjonSamtykkeløsningen.md",
+    "fixes": [
+      "Fixed 10 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_integrasjonstest.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_listefinansforetak.md",
+    "fixes": [
+      "Fixed 2 unescaped ampersands"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_om.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_sbl_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_su_API_referanse.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_su_endringslogg.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_su_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_su_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_su_integrasjonSamtykke.md",
+    "fixes": [
+      "Fixed 10 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_su_integrasjonstest.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_su_onboarding.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_transportloyvegaranti_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_accountdetails.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_accounts.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_accountservicingprovider.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_api_specifications.md",
+    "fixes": [
+      "Fixed 9 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_architecturedocument.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_cards.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_changelog.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_customerrelationships.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_datamodel.md",
+    "fixes": [
+      "Fixed 1 unescaped ampersands"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_faq.md",
+    "fixes": [
+      "Fixed 6 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_functionalspecification.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_om.md",
+    "fixes": [
+      "Fixed 2 unescaped ampersands"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_operational_processes.md",
+    "fixes": [
+      "Fixed 10 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_roles.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_specification_of_eoppslag.md",
+    "fixes": [
+      "Fixed 8 backslashes",
+      "Fixed 3 unescaped ampersands",
+      "Removed 3 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_transactions.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2fellesstandard_validation.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2konkurs_about.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2konkurs_changelog.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2konkurs_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2konkurs_jurdisk.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2konkurs_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 9 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2konkurs_onboarding.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2konkurs_onboarding_konkursvarsel.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2konkurs_operational_processes.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_about_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_faq_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 3 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA.md",
+    "fixes": [
+      "Fixed 3 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_onboarding.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_onboarding_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_operational_processes.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2kontroll_skatt_operational_processes_BETA.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2oed_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2oed_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2oed_juridisk.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2oed_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 9 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2oed_onboarding.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2oed_operational_processes.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2oed_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2politi-utlevering_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2politi-utlevering_changelog.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2politi-utlevering_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2politi-utlevering_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 9 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2politi-utlevering_onboarding.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2politi-utlevering_operational_processes.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2politi-utlevering_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2politi-utlevering_utleveringspålegg.md",
+    "fixes": [
+      "Fixed 16 backslashes",
+      "Removed 2 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2vergekontroll_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2vergekontroll_faq.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2vergekontroll_juridisk.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2vergekontroll_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed 9 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2vergekontroll_onboarding.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2vergekontroll_operational_processes.md",
+    "fixes": [
+      "Fixed 2 backslashes"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "docs\\dsop_v2vergekontroll_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  }
+]

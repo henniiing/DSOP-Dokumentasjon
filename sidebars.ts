@@ -1,620 +1,341 @@
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
-  "mainSidebar": [
+  mainSidebar: [
+    'index',
     {
-      "type": "category",
-      "label": "DSOP",
-      "items": [
-        {
-          "type": "doc",
-          "id": "index",
-          "label": "Om DSOP-prosjektene"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_dsop_kontakt",
-          "label": "Kontaktinformasjon"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_dsop_avtaler_og_juridisk",
-          "label": "Avtaler og juridiske rammebetingelser"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_dsop_fagutvalg",
-          "label": "Fagutvalg"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_dsop_endringslogg",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'DSOP',
+      items: [
+        'dsop/dsop_dsop_kontakt',
+        'dsop/dsop_dsop_avtaler_og_juridisk',
+        'dsop/dsop_dsop_fagutvalg',
+        'dsop/dsop_dsop_endringslogg'
+      ],
     },
     {
-      "type": "category",
-      "label": "Samtykkebasert lånesøknad",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_sbl_om",
-          "label": "Om tjenesten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_sbl_onboarding",
-          "label": "Onboarding"
-        },
-        {
-          "type": "link",
-          "label": "Skatteetatens API'er",
-          "href": "https://skatteetaten.github.io/api-dokumentasjon/"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_sbl_integrasjonstest",
-          "label": "Integrasjonstest"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_sbl_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_sbl_endringer",
-          "label": "Endringer for tjenesten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_sbl_endringslogg",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Samtykkebasert Lånesøknad',
+      items: [
+        'samtykkebasert-lanesoknad/dsop_sbl_om',
+        'samtykkebasert-lanesoknad/dsop_sbl_onboarding',
+        'samtykkebasert-lanesoknad/dsop_sbl_faq',
+        'samtykkebasert-lanesoknad/dsop_sbl_endringslogg',
+        'samtykkebasert-lanesoknad/dsop_sbl_endringer',
+        'samtykkebasert-lanesoknad/dsop_sbl_integrasjonMaskinporten',
+        'samtykkebasert-lanesoknad/dsop_sbl_integrasjonSamtykkeløsningen',
+        'samtykkebasert-lanesoknad/dsop_sbl_integrasjonstest',
+        'samtykkebasert-lanesoknad/dsop_sbl_listefinansforetak'
+      ],
     },
     {
-      "type": "category",
-      "label": "Kontrollinformasjon Fellesstandard",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_om",
-          "label": "About DSOP Control Common Standard"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_onboarding",
-          "label": "Onboarding guide for financial institutions"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_test",
-          "label": "Internal testing and quality assurance"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_functionalspecification",
-          "label": "Functional specification"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_specification_of_eoppslag",
-          "label": "Overall description of the DSOP Control API"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_architecturedocument",
-          "label": "Architecture documentation"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_securitydesign",
-          "label": "Security documentation"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_datamodel",
-          "label": "Data Model"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_api_specification",
-          "label": "API-specification"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_validation",
-          "label": "Generic validation of requests"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_operational_processes",
-          "label": "Operational processes"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_glossary",
-          "label": "Glossary"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2fellesstandard_changelog",
-          "label": "Change log"
-        }
-      ]
+      type: 'category',
+      label: 'Kontrollinformasjon Fellesstandard',
+      items: [
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_om',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_onboarding',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_faq',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_changelog',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_operational_processes',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_test',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_validation',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_api_specification',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_architecturedocument',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_functionalspecification',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_securitydesign',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_specification_of_eoppslag',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_datamodel',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_glossary',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_accounts',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_accountdetails',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_accountservicingprovider',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_cards',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_customerrelationships',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_roles',
+        'kontrollinformasjon-fellesstandard/dsop_v2fellesstandard_transactions'
+      ],
     },
     {
-      "type": "category",
-      "label": "Konkursbehandling",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_v2konkurs_about",
-          "label": "Om konkursbehandling"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2konkurs_jurdisk",
-          "label": "Juridiske rammebetingelser"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2konkurs_løsningsbeskrivelse",
-          "label": "Løsningsbeskrivelse"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2konkurs_onboarding",
-          "label": "Onboarding for datakilder"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2konkurs_operational_processes",
-          "label": "Forvaltningsrutiner"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2konkurs_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2konkurs_changelog",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Konkursbehandling',
+      items: [
+        'konkursbehandling/dsop_v2konkurs_about',
+        'konkursbehandling/dsop_v2konkurs_onboarding',
+        'konkursbehandling/dsop_v2konkurs_onboarding_konkursvarsel',
+        'konkursbehandling/dsop_v2konkurs_faq',
+        'konkursbehandling/dsop_v2konkurs_changelog',
+        'konkursbehandling/dsop_v2konkurs_løsningsbeskrivelse',
+        'konkursbehandling/dsop_v2konkurs_operational_processes',
+        'konkursbehandling/dsop_v2konkurs_test',
+        'konkursbehandling/dsop_v2konkurs_functionalspecification',
+        'konkursbehandling/dsop_v2konkurs_jurdisk'
+      ],
     },
     {
-      "type": "category",
-      "label": "Politi-Utlevering",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_v2politi-utlevering_about",
-          "label": "Om Politi-Utlevering"
-        }
-      ]
+      type: 'category',
+      label: 'Politi Utlevering',
+      items: [
+        'politi-utlevering/dsop_v2politi-utlevering_about',
+        'politi-utlevering/dsop_v2politi-utlevering_onboarding',
+        'politi-utlevering/dsop_v2politi-utlevering_løsningsbeskrivelse',
+        'politi-utlevering/dsop_v2politi-utlevering_juridisk',
+        'politi-utlevering/dsop_v2politi-utlevering_utleveringspålegg',
+        'politi-utlevering/dsop_v2politi-utlevering_BETA_changelog',
+        'politi-utlevering/dsop_v2politi-utlevering_BETA_faq',
+        'politi-utlevering/dsop_v2politi-utlevering_BETA_test',
+        'politi-utlevering/dsop_v2politi-utlevering_operational_BETA_processes'
+      ],
     },
     {
-      "type": "category",
-      "label": "Skatt-Kontroll",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_v2kontroll_skatt_about",
-          "label": "Om Skatt-Kontroll"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2kontroll_skatt_juridisk",
-          "label": "Juridiske rammebetingelser"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2kontroll_skatt_løsningsbeskrivelse",
-          "label": "Løsningsbeskrivelse"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2kontroll_skatt_onboarding",
-          "label": "Onboarding for datakilder"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2kontroll_skatt_operational_processes",
-          "label": "Forvaltningsrutiner"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2kontroll_skatt_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2kontroll_skatt_changelog",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Skatt Kontroll',
+      items: [
+        'skatt-kontroll/dsop_v2kontroll_skatt_about',
+        'skatt-kontroll/dsop_v2kontroll_skatt_onboarding',
+        'skatt-kontroll/dsop_v2kontroll_skatt_faq',
+        'skatt-kontroll/dsop_v2kontroll_skatt_changelog',
+        'skatt-kontroll/dsop_v2kontroll_skatt_løsningsbeskrivelse',
+        'skatt-kontroll/dsop_v2kontroll_skatt_operational_processes',
+        'skatt-kontroll/dsop_v2kontroll_skatt_juridisk',
+        'skatt-kontroll/dsop_v2kontroll_nav_about'
+      ],
     },
     {
-      "type": "category",
-      "label": "Vergekontroll",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_v2vergekontroll_about",
-          "label": "Om Vergekontroll"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2vergekontroll_juridisk",
-          "label": "Juridiske rammebetingelser"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2vergekontroll_løsningsbeskrivelse",
-          "label": "Løsningsbeskrivelse"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2vergekontroll_onboarding",
-          "label": "Onboarding for datakilder"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2vergekontroll_operational_processes",
-          "label": "Forvaltningsrutiner"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2vergekontroll_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2vergekontroll_changelog",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Vergekontroll',
+      items: [
+        'vergekontroll/dsop_v2vergekontroll_about',
+        'vergekontroll/dsop_v2vergekontroll_onboarding',
+        'vergekontroll/dsop_v2vergekontroll_faq',
+        'vergekontroll/dsop_v2vergekontroll_changelog',
+        'vergekontroll/dsop_v2vergekontroll_løsningsbeskrivelse',
+        'vergekontroll/dsop_v2vergekontroll_operational_processes',
+        'vergekontroll/dsop_v2vergekontroll_test',
+        'vergekontroll/dsop_v2vergekontroll_juridisk',
+        'vergekontroll/dsop_v2vergekontroll_validering_av_freg'
+      ],
     },
     {
-      "type": "category",
-      "label": "Oppgjør etter dødsfall",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_v2oed_about",
-          "label": "Om Oppgjør etter dødsfall"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2oed_juridisk",
-          "label": "Juridiske rammebetingelser"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2oed_løsningsbeskrivelse",
-          "label": "Løsningsbeskrivelse"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2oed_onboarding",
-          "label": "Onboarding for datakilder"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2oed_operational_processes",
-          "label": "Forvaltningsrutiner"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2oed_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_v2oed_changelog",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Oppgjør etter Dødsfall',
+      items: [
+        'oppgjor-etter-dodsfall/dsop_v2oed_about',
+        'oppgjor-etter-dodsfall/dsop_v2oed_onboarding',
+        'oppgjor-etter-dodsfall/dsop_v2oed_faq',
+        'oppgjor-etter-dodsfall/dsop_v2oed_changelog',
+        'oppgjor-etter-dodsfall/dsop_v2oed_løsningsbeskrivelse',
+        'oppgjor-etter-dodsfall/dsop_v2oed_operational_processes',
+        'oppgjor-etter-dodsfall/dsop_v2oed_test',
+        'oppgjor-etter-dodsfall/dsop_v2oed_juridisk',
+        'oppgjor-etter-dodsfall/dsop_oed_om'
+      ],
     },
     {
-      "type": "category",
-      "label": "Syke- og uføreopplysninger fra NAV",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_su_om",
-          "label": "Om tjenesten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_su_onboarding",
-          "label": "Onboarding"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_su_api_dokumentasjon",
-          "label": "API-dokumentasjon"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_su_integrasjontest",
-          "label": "Integrasjonstest"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_su_forvaltningsrutiner",
-          "label": "Forvaltningsrutiner"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_su_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_su_endringslogg",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Syke- og Uføreopplysninger',
+      items: [
+        'syke-og-uforeopplysninger/dsop_su_om',
+        'syke-og-uforeopplysninger/dsop_su_onboarding',
+        'syke-og-uforeopplysninger/dsop_su_faq',
+        'syke-og-uforeopplysninger/dsop_su_endringslogg',
+        'syke-og-uforeopplysninger/dsop_su_forvaltningsrutiner',
+        'syke-og-uforeopplysninger/dsop_su_registrering',
+        'syke-og-uforeopplysninger/dsop_su_integrasjonMaskinporten',
+        'syke-og-uforeopplysninger/dsop_su_integrasjonSamtykke',
+        'syke-og-uforeopplysninger/dsop_su_integrasjontest',
+        'syke-og-uforeopplysninger/dsop_su_api_dokumentasjon'
+      ],
     },
     {
-      "type": "category",
-      "label": "Kundeforholdsregister",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_kundeforholdsregister_om",
-          "label": "Om tjenesten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_kundeforholdsregister_onboarding",
-          "label": "Onboarding"
-        },
-        {
-          "type": "link",
-          "label": "API-spesifikasjon",
-          "href": "https://bitsnorge.github.io/dsop-kfr-api/#/"
-        },
-        {
-          "type": "link",
-          "label": "Maskinporten",
-          "href": "https://www.digdir.no/digitale-felleslosninger/maskinporten/869"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_oversikt_kfr.html",
-          "label": "Finansforetak i KFR"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_kundeforholdsregister_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_kundeforholdsregister_endringslogg",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Kundeforholdsregister',
+      items: [
+        'kundeforholdsregister/dsop_kundeforholdsregister_om',
+        'kundeforholdsregister/dsop_kundeforholdsregister_onboarding',
+        'kundeforholdsregister/dsop_kundeforholdsregister_faq',
+        'kundeforholdsregister/dsop_kundeforholdsregister_endringslogg',
+        'kundeforholdsregister/dsop_kundeforholdsregister_interntesting',
+        'kundeforholdsregister/dsop_oversikt_kfr.html'
+      ],
     },
     {
-      "type": "category",
-      "label": "Saldo på studielån",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_saldostudielan_om",
-          "label": "Om tjenesten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_saldostudielan_onboarding",
-          "label": "Onboarding"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_saldostudielan_integrasjonLanekassen",
-          "label": "Integrasjon mot Lånekassen"
-        },
-        {
-          "type": "link",
-          "label": "API-spesifikasjon",
-          "href": "https://bitsnorge.github.io/dsop-saldo-studielan-api/"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_saldostudielan_informasjonsmodellLanekassen",
-          "label": "Informasjonsmodell Lånekassen"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_saldostudielan_integrasjonstest",
-          "label": "Integrasjonstest"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_saldostudielan_logoLanekassen",
-          "label": "Logo"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_saldostudielan_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_saldostudielan_endringslogg",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Saldo Studielån',
+      items: [
+        'saldo-studielan/dsop_saldostudielan_om',
+        'saldo-studielan/dsop_saldostudielan_onboarding',
+        'saldo-studielan/dsop_saldostudielan_faq',
+        'saldo-studielan/dsop_saldostudielan_endringslogg',
+        'saldo-studielan/dsop_saldostudielan_integrasjonMaskinporten',
+        'saldo-studielan/dsop_saldostudielan_integrasjonSamtykke',
+        'saldo-studielan/dsop_saldostudielan_integrasjonstest',
+        'saldo-studielan/dsop_saldostudielan_integrasjonLanekassen',
+        'saldo-studielan/dsop_saldostudielan_informasjonsmodellLanekassen',
+        'saldo-studielan/dsop_saldostudielan_logoLanekassen'
+      ],
     },
     {
-      "type": "category",
-      "label": "Data for ajourhold av OTP i privat sektor",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_ajourhold_om",
-          "label": "Om tjenesten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_ajourhold_onboarding",
-          "label": "Onboarding"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_skatteetaten_api",
-          "label": "Skatteetatens informasjonsmodeller, API og testdata"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_Nav_api",
-          "label": "NAVs informasjonsmodell, API og testdata"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_ajourhold_integrasjonstest",
-          "label": "Integrasjonstest"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_ajourhold_forvaltningsrutiner",
-          "label": "Forvaltningsrutiner"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_ajourhold_faq",
-          "label": "FAQ"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_ajourhold_endringer",
-          "label": "Endringer for tjenesten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_ajourhold_Endringslogg",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Ajourhold',
+      items: [
+        'ajourhold/dsop_ajourhold_om',
+        'ajourhold/dsop_ajourhold_onboarding',
+        'ajourhold/dsop_ajourhold_faq',
+        'ajourhold/dsop_ajourhold_Endringslogg',
+        'ajourhold/dsop_ajourhold_endringer',
+        'ajourhold/dsop_ajourhold_forvaltningsrutiner',
+        'ajourhold/dsop_ajourhold_integrasjonstest',
+        'ajourhold/dsop_ajourhold_Integrasjonmaskinporten',
+        'ajourhold/dsop_Nav_api',
+        'ajourhold/dsop_skatteetaten_api'
+      ],
     },
     {
-      "type": "category",
-      "label": "Data om signatur og prokura for virksomheter",
-      "items": [
-        {
-          "type": "link",
-          "label": "Om tjenesten",
-          "href": "https://wiki.brreg.no/spaces/DSB/pages/47022102/Bakgrunn+form%C3%A5l+og+effektm%C3%A5l"
-        },
-        {
-          "type": "link",
-          "label": "API-dokumentasjon",
-          "href": "https://data.brreg.no/fullmakt/docs/index.html"
-        }
-      ]
+      type: 'category',
+      label: 'FI Krav & Betalinger',
+      items: [
+        'fi-krav-betalinger/dsop_fi_om',
+        'fi-krav-betalinger/dsop_fi_onboarding',
+        'fi-krav-betalinger/dsop_fi_faq',
+        'fi-krav-betalinger/dsop_fi_endringslogg',
+        'fi-krav-betalinger/dsop_fi_endringer',
+        'fi-krav-betalinger/dsop_fi_forvaltningsrutiner',
+        'fi-krav-betalinger/dsop_fi_integrasjonMaskinporten'
+      ],
     },
     {
-      "type": "category",
-      "label": "Transportløyvegaranti",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_transportloyvegaranti_om",
-          "label": "Om tjenesten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_transportloyvegaranti_onboarding",
-          "label": "Onboarding"
-        }
-      ]
+      type: 'category',
+      label: 'FI Utlegg',
+      items: [
+        'fi-utlegg/dsop_fi-utlegg_om',
+        'fi-utlegg/dsop_fi-utlegg_onboarding',
+        'fi-utlegg/dsop_fi-utlegg_changelog',
+        'fi-utlegg/dsop_fi-utlegg_operational_processes',
+        'fi-utlegg/dsop_fi-utlegg_juridisk',
+        'fi-utlegg/dsop_fi-utlegg_løsningsbeskrivelse_saldo',
+        'fi-utlegg/dsop_fi-utlegg_løsningsbeskrivelse_notification'
+      ],
     },
     {
-      "type": "category",
-      "label": "Digital samhandling ved eiendomshandel",
-      "items": [
-        {
-          "type": "doc",
-          "id": "dsop_digitaleiendomshandel_om",
-          "label": "Om tjenesten"
-        },
-        {
-          "type": "link",
-          "label": "Dokumentasjon om tjenesten",
-          "href": "https://github.com/bitsnorge/e-tinglysing-afpant"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_digitaleiendomshandel_endringslogg",
-          "label": "Endringslogg"
-        }
-      ]
+      type: 'category',
+      label: 'Transportløyvegaranti',
+      items: [
+        'transportloyvegaranti/dsop_transportloyvegaranti_om',
+        'transportloyvegaranti/dsop_transportloyvegaranti_onboarding'
+      ],
     },
     {
-      "type": "category",
-      "label": "Digital selskapsetablering",
-      "items": [
-        {
-          "type": "link",
-          "label": "Om tjenesten",
-          "href": "https://wiki.brreg.no/display/DSB/Digital+selskapsetablering+-+brukerdokumentasjon"
-        },
-        {
-          "type": "link",
-          "label": "Hvordan bruke API for faste tekster for Aktivitet/bransje",
-          "href": "https://wiki.brreg.no/pages/viewpage.action?pageId=47022232"
-        }
-      ]
+      type: 'category',
+      label: 'Digital Eiendomshandel',
+      items: [
+        'digital-eiendomshandel/dsop_digitaleiendomshandel_om',
+        'digital-eiendomshandel/dsop_digitaleiendomshandel_endringslogg'
+      ],
     },
     {
-      "type": "category",
-      "label": "Altinn 3.0",
-      "items": [
+      type: 'category',
+      label: 'Altinn 3.0',
+      items: [
+        'altinn3/dsop_altinn3.0_about',
+        'altinn3/dsop_altinn3.0_systembruker',
+        'altinn3/dsop_altinn3.0_tilgangspakker',
+        'altinn3/dsop_altinn3.0_dialogporten',
+        'altinn3/dsop_altinn3.0_innboks',
+        'altinn3/dsop_altinn3.0_samtykkeløsningen'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Legacy Documentation',
+      collapsed: true,
+      items: [
         {
-          "type": "doc",
-          "id": "dsop_altinn3.0_about",
-          "label": "Om Altinn 3.0"
+          type: 'category',
+          label: 'Konkurs Legacy',
+          items: [
+            'legacy/dsop_konkurs_om',
+            'legacy/dsop_konkurs_onboarding_konkursbehanding',
+            'legacy/dsop_konkurs_onboardingsguide',
+            'legacy/dsop_konkurs_faq',
+            'legacy/dsop_konkurs_endringslogg',
+            'legacy/dsop_konkurs_forvaltningsrutiner',
+            'legacy/dsop_konkurs_test',
+            'legacy/dsop_konkurs_validering',
+            'legacy/dsop_konkurs_juridisk',
+            'legacy/dsop_konkurs_juridiskerammebetingelser',
+            'legacy/dsop_konkurs_api',
+            'legacy/dsop_konkurs_apispek_konkursbehandling',
+            'legacy/dsop_konkurs_datamodell_konkursbehandling',
+            'legacy/dsop_konkurs_eOppslag',
+            'legacy/dsop_konkurs_funksjonellspesifikasjon',
+            'legacy/dsop_konkurs_funksjonellspesifikasjon_konkursbehandling',
+            'legacy/dsop_konkurs_sikkerhet'
+          ],
         },
         {
-          "type": "doc",
-          "id": "dsop_altinn3.0_tilgangspakker",
-          "label": "Tilgangspakker"
+          type: 'category',
+          label: 'Kontroll Legacy',
+          items: [
+            'legacy/dsop_kontroll_om',
+            'legacy/dsop_kontroll_onboarding_landingsside',
+            'legacy/dsop_kontroll_onboarding_datakilde',
+            'legacy/dsop_kontroll_onboarding_datakilde_2',
+            'legacy/dsop_kontroll_faq',
+            'legacy/dsop_kontroll_endringslogg',
+            'legacy/dsop_kontroll_test',
+            'legacy/dsop_kontroll_validation',
+            'legacy/dsop_kontroll_jurdisk',
+            'legacy/dsop_kontroll_api_specification',
+            'legacy/dsop_kontroll_architecturedocument',
+            'legacy/dsop_kontroll_arkitektur',
+            'legacy/dsop_kontroll_functionalspecification',
+            'legacy/dsop_kontroll_securitydesign',
+            'legacy/dsop_kontroll_specification_of_eoppslag',
+            'legacy/dsop_kontroll_spesifikasjon_av_eoppslag (utgått norsk)',
+            'legacy/dsop_kontroll_datamodel',
+            'legacy/dsop_kontroll_dataelementer',
+            'legacy/dsop_kontroll_changelogdatamodel',
+            'legacy/dsop_kontroll_apiaccountlist',
+            'legacy/dsop_kontroll_apiaccountlist_v1_2',
+            'legacy/dsop_kontroll_apiaccountdetails',
+            'legacy/dsop_kontroll_apiaccountdetails_v1_2',
+            'legacy/dsop_kontroll_apicards',
+            'legacy/dsop_kontroll_apicards_v1_2',
+            'legacy/dsop_kontroll_apiroles',
+            'legacy/dsop_kontroll_apiroles_v1_2',
+            'legacy/dsop_kontroll_apitransactions',
+            'legacy/dsop_kontroll_apitransactions_v1_2',
+            'legacy/dsop_kontroll_operational_processes',
+            'legacy/dsop_kontroll_change_management',
+            'legacy/dsop_kontroll_question_management',
+            'legacy/dsop_kontroll_error_handling',
+            'legacy/dsop_kontroll_information_from_and_to_public_agencies',
+            'legacy/dsop_kontroll_funksjonalitet (utgått norsk)'
+          ],
         },
         {
-          "type": "doc",
-          "id": "dsop_altinn3.0_samtykkeløsningen",
-          "label": "Samtykkeløsningen"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_altinn3.0_systembruker",
-          "label": "Systembruker"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_altinn3.0_dialogporten",
-          "label": "Dialogporten"
-        },
-        {
-          "type": "doc",
-          "id": "dsop_altinn3.0_innboks",
-          "label": "Ny innboks/arbeidsflate"
+          type: 'category',
+          label: 'Kontrollinformasjon Legacy',
+          items: [
+            'legacy/dsop_kontrollinformasjon_about',
+            'legacy/dsop_kontrollinformasjon_onboarding',
+            'legacy/dsop_kontrollinformasjon_faq',
+            'legacy/dsop_kontrollinformasjon_changelog',
+            'legacy/dsop_kontrollinformasjon_operational_processes',
+            'legacy/dsop_kontrollinformasjon_test',
+            'legacy/dsop_kontrollinformasjon_validation',
+            'legacy/dsop_kontrollinformasjon_jurdisk',
+            'legacy/dsop_kontrollinformasjon_api_specification',
+            'legacy/dsop_kontrollinformasjon_architecturedocument',
+            'legacy/dsop_kontrollinformasjon_functionalspecification',
+            'legacy/dsop_kontrollinformasjon_securitydesign',
+            'legacy/dsop_kontrollinformasjon_specification_of_eoppslag',
+            'legacy/dsop_kontrollinformasjon_datamodel'
+          ],
         }
-      ]
+      ],
     }
-  ]
+  ],
 };
 
 export default sidebars;

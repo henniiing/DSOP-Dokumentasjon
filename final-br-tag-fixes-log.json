@@ -1,0 +1,1181 @@
+[
+  {
+    "file": "prod-sider\\dsop_ajourhold _Nav_api.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_endringer.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_faq.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_Forvaltningsrutiner.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Integrasjonstest.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_Integrasjon_Maskinporten.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_ajourhold_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_Ajourhold_skatteetaten_api.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_dialogporten.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_innboks.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_samtykkeløsningen.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_systembruker.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_altinn3.0_tilgangspakker.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_digitaleiendomshandel_om.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_dsop_avtaler_og_juridisk.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_changelog.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_løsningsbeskrivelse_saldo.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_fi-utlegg_operational_processes.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_fi_endringer.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_fi_forvaltningsrutiner.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_fi_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_fi_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_endringslogg.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_funksjonellspesifikasjon.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_juridiske.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_apispek.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_datamodell.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_eoppslag.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_forvaltningsrutiner.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_funksjonellspesifikasjon.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_onboardingsguide.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_landingsside_sikkerhet.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_om.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_onboardingsguide.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_test.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_konkurs_validering.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontrollinformasjon_jurdisk.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountdetails.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <i> tag: <ins>",
+      "Fixed unclosed <i> tag: <ins>",
+      "Fixed unclosed <i> tag: <ins>"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountdetails_v1_2.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <i> tag: <ins>",
+      "Fixed unclosed <i> tag: <ins>",
+      "Fixed unclosed <i> tag: <ins>"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountlist.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <i> tag: <ins>",
+      "Fixed unclosed <i> tag: <ins>",
+      "Fixed unclosed <i> tag: <ins>"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiaccountlist_v1_2.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <i> tag: <ins>",
+      "Fixed unclosed <i> tag: <ins>",
+      "Fixed unclosed <i> tag: <ins>"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apicards.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apicards_v1_2.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiroles.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apiroles_v1_2.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apitransactions.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_apitransactions_v1_2.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_architecturedocument.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_arkitektur (utgått norsk).md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_dataelementer (utgått).md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_datamodel.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_faq.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_functionalspecification.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_funksjonalitet (utgått norsk).md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_jurdisk.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_om.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_datakilde.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_onboarding_datakilde_2.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_operational_processes.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_specification_of_eoppslag.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_spesifikasjon_av_eoppslag (utgått norsk).md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_test.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kontroll_validation.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_kundeforholdsregister_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_faq.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_informasjonsmodellLanekassen.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonSamtykke.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonstest.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_logoLanekassen.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_om.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_saldostudielan_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_endringer.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_faq.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonSamtykkeløsningen.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonstest.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_su_faq.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_su_forvaltningsrutiner.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonMaskinporten.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_su_integrasjonstest.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_su_om.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_su_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountdetails.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accounts.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountservicingprovider.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_architecturedocument.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_cards.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_customerrelationships.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_datamodel.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_faq.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_functionalspecification.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_glossary.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_om.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_operational_processes.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_roles.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_specification_of_eoppslag.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_test.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_transactions.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_changelog.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_functionalspecification.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_jurdisk.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed unclosed <u> tag: <uInput>",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Removed malformed custom tag: <uInput"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding_konkursvarsel.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_operational_processes.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_changelog.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <i> tag: <img >",
+      "Fixed unclosed <i> tag: <iaccountReference>",
+      "Removed malformed custom tag: <iaccountReference"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_operational_processes.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_changelog.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_juridisk.md",
+    "fixes": [
+      "Fixed unclosed <u> tag: <ul>",
+      "Fixed unclosed <i> tag: <iDenne>",
+      "Removed malformed custom tag: <iDenne",
+      "Removed malformed custom tag: <tdInnhenting",
+      "Removed malformed custom tag: <tdInnhenting"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_operational_processes.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_test.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed unclosed <u> tag: <uskal>",
+      "Fixed unclosed <u> tag: <um>",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_operational_processes.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_test.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_changelog.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_juridisk.md",
+    "fixes": [
+      "Fixed unclosed <u> tag: <ul>",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <i> tag: <iDenne>",
+      "Removed malformed custom tag: <iDenne"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_løsningsbeskrivelse.md",
+    "fixes": [
+      "Fixed unclosed <u> tag: <uminimum>",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_onboarding.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_operational_processes.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_test.md",
+    "fixes": [
+      "Fixed unclosed <i> tag: <iuten>"
+    ]
+  },
+  {
+    "file": "beta-sider\\dsop_beta_om.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_changelog_BETA.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <i> tag: <img >",
+      "Fixed unclosed <i> tag: <iaccountReference>",
+      "Removed malformed custom tag: <iaccountReference"
+    ]
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_onboarding_BETA.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_operational_processes_BETA.md",
+    "fixes": [
+      "Fixed unclosed <b> tag: <br >",
+      "Fixed unclosed <b> tag: <br >"
+    ]
+  }
+]

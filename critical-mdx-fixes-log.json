@@ -1,0 +1,207 @@
+[
+  {
+    "file": "prod-sider\\dsop_saldostudielan_integrasjonSamtykke.md",
+    "fixes": [
+      "Removed 20 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_sbl_integrasjonSamtykkeløsningen.md",
+    "fixes": [
+      "Removed 19 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_su_registrering.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_accountdetails.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_cards.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_roles.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2fellesstandard_transactions.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_about.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_functionalspecification.md",
+    "fixes": [
+      "Removed 4 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_jurdisk.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_løsningsbeskrivelse.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_onboarding.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2konkurs_operational_processes.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_juridisk.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_løsningsbeskrivelse.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_onboarding.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_operational_processes.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2oed_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_løsningsbeskrivelse.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_onboarding.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_operational_processes.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2politi-utlevering_utleveringspålegg.md",
+    "fixes": [
+      "Removed 3 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_about.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_juridisk.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_løsningsbeskrivelse.md",
+    "fixes": [
+      "Removed 3 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_onboarding.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_operational_processes.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  },
+  {
+    "file": "prod-sider\\dsop_v2vergekontroll_test.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_beta_om.md",
+    "fixes": [],
+    "fixesApplied": true
+  },
+  {
+    "file": "beta-sider\\dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA.md",
+    "fixes": [
+      "Removed 1 invalid JSX expressions"
+    ],
+    "fixesApplied": true
+  }
+]
