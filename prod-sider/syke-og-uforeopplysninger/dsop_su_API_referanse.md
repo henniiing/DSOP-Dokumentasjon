@@ -1,8 +1,7 @@
 ---
 title: "API-dokumentasjon"
-slug: "dsop_su_api_dokumentasjon"
-id: "dsop_su_api_dokumentasjon"
-keywords: ["sample"]
+slug: "/dsop_su_api_dokumentasjon"
+id: dsop_su_api_dokumentasjon
 ---
 
 ### Arbeidsavklaringspenger (AAP)

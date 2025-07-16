@@ -1,8 +1,7 @@
 ---
 title: "Forvaltningsrutiner"
-slug: "dsop_ajourhold_forvaltningsrutiner"
-id: "dsop_ajourhold_forvaltningsrutiner"
-keywords: ["sample"]
+slug: "/dsop_ajourhold_forvaltningsrutiner"
+id: dsop_ajourhold_forvaltningsrutiner
 ---
 
 Alle pensjonsinnretninger som har implementert Data for ajourhold av OTP i privat sektor skal inkorporere forvaltningsrutinene i deres interne rutiner. Det er nødvendig at pensjonsinnretningen som implementerer denne løsningen lager egne rutiner og systemer, slik at rutinene beskrevet under skal fungere.

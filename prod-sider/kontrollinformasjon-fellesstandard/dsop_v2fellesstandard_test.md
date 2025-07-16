@@ -1,8 +1,7 @@
 ---
 title: "Internal testing / quality assurance DSOP Control Common Standard"
-slug: "dsop_v2fellesstandard_test"
-id: "dsop_v2fellesstandard_test"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_test"
+id: dsop_v2fellesstandard_test
 ---
 
 The integration test and check list are a part of the internal testing that the data providers must complete

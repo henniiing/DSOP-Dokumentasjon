@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2oed About
-id: dsop_v2oed_about"
-slug: "dsop_v2oed_about"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2oed_about.html"
-folder: "section1"
+title: "Om tjenesten"
+id: dsop_v2oed_about
+slug: "/dsop_v2oed_about"
 toc: false
 ---
 

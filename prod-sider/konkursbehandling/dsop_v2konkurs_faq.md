@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
-slug: "dsop_v2konkurs_faq"
-id: "dsop_v2konkurs_faq"
+slug: "/dsop_v2konkurs_faq"
+id: dsop_v2konkurs_faq
 ---
 
 **Finner du ikke svar på det du lurer på? Kontakt oss ved å sende en henvendelse i saksportalen vår på support.dsop.no. PS: Krever innlogging.*

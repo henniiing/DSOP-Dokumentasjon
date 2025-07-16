@@ -1,8 +1,7 @@
 ---
 title: "NAVs Informasjonsmodell, API og testdata"
-slug: "dsop_Nav_api"
-id: "dsop_Nav_api"
-keywords: ["sample"]
+slug: "/dsop_Nav_api"
+id: dsop_Nav_api
 ---
 
 ## NAVs API

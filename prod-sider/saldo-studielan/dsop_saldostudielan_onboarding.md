@@ -1,11 +1,7 @@
 ---
-title: "Dsop Saldostudielan Onboarding
-id: dsop_saldostudielan_onboarding"
-slug: "dsop_saldostudielan_onboarding"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_saldostudielan_onboarding.html"
-folder: "section1"
+title: "Onboarding"
+id: dsop_saldostudielan_onboarding
+slug: "/dsop_saldostudielan_onboarding"
 ---
 
 *Denne siden skal benyttes av virksomhetene som et navigeringsverktøy som gir tilgang til informasjon som er nødvendig for en vellykket etablering av løsningen.*

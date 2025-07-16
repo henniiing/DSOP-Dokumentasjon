@@ -1,8 +1,7 @@
 ---
 title: "Liste over finansforetak som har implementert SBL"
-slug: "dsop_sbl_listefinansforetak"
-id: "dsop_sbl_listefinansforetak"
-keywords: ["sample"]
+slug: "/dsop_sbl_listefinansforetak"
+id: dsop_sbl_listefinansforetak
 ---
 
 | Navn på finansforetak                                  |

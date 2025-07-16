@@ -1,7 +1,7 @@
 ---
 title: "Om Skatt-Kontroll BETA"
 id: dsop_v2kontroll_skatt_about_BETA
-slug: dsop_v2kontroll_skatt_about_BETA
+slug: "/beta/skatt-kontroll-beta/dsop_v2kontroll_skatt_about_BETA"
 keywords: ["skatt", "kontroll", "beta"]
 sidebar_position: 1
 ---

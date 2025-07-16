@@ -1,10 +1,7 @@
 ---
-title: "Dsop Saldostudielan IntegrasjonSamtykke"
-id: "dsop_saldostudielan_integrasjonSamtykke"
-slug: "dsop_saldostudielan_integrasjonSamtykke"
-sidebar: "main_sidebar"
-permalink: "dsop_saldostudielan_integrasjonSamtykke.html"
-folder: "section1"
+title: "Saldostudielan Integrasjonsamtykke"
+id: dsop_saldostudielan_integrasjonSamtykke
+slug: "/dsop_saldostudielan_integrasjonSamtykke"
 ---
 
 ## Samtykkeløsningen

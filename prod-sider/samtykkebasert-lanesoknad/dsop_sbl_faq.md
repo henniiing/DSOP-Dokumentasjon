@@ -1,8 +1,7 @@
 ---
 title: "FAQ"
-slug: "dsop_sbl_faq"
-id: "dsop_sbl_faq"
-keywords: ["sample"]
+slug: "/dsop_sbl_faq"
+id: dsop_sbl_faq
 ---
 
 *Send henvendelse til [DSOP Support](https:/support.dsop.no/)dersom FAQ ikke besvarer ditt spørsmål.*

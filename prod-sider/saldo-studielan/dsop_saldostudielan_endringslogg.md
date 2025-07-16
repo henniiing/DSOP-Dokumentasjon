@@ -1,8 +1,7 @@
 ---
 title: "Endringslogg"
-slug: "dsop_saldostudielan_endringslogg"
-id: "dsop_saldostudielan_endringslogg"
-keywords: ["sample"]
+slug: "/dsop_saldostudielan_endringslogg"
+id: dsop_saldostudielan_endringslogg
 ---
 
 *Endringsloggen viser til side hvor dokumentasjon er oppdatert.*

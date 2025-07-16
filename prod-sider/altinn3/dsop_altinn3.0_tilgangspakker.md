@@ -1,8 +1,7 @@
 ---
 title: "Altinn 3.0"
-slug: "dsop_altinn3.0_tilgangspakker"
-id: "dsop_altinn3.0_tilgangspakker"
-keywords: ["sample"]
+slug: "/dsop_altinn3.0_tilgangspakker"
+id: dsop_altinn3.0_tilgangspakker
 ---
 
 # Tilgangspakker

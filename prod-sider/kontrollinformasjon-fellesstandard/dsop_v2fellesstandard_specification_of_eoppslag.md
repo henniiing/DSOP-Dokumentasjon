@@ -1,8 +1,7 @@
 ---
 title: "Overall description of the DSOP Control API (eOppslag)"
-slug: "dsop_v2fellesstandard_specification_of_eoppslag"
-id: "dsop_v2fellesstandard_specification_of_eoppslag"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_specification_of_eoppslag"
+id: dsop_v2fellesstandard_specification_of_eoppslag
 ---
 
 ## High-level description

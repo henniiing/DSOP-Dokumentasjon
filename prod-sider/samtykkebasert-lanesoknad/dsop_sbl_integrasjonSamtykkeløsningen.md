@@ -1,10 +1,7 @@
 ---
-title: "Dsop Sbl IntegrasjonSamtykkeløSningen"
-id: "dsop_sbl_integrasjonSamtykkeløsningen"
-slug: "dsop_sbl_integrasjonSamtykkeløsningen"
-sidebar: "main_sidebar"
-permalink: "dsop_sbl_integrasjonSamtykkeløsningen.html"
-folder: "section1"
+title: "Sbl Integrasjonsamtykkeløsningen"
+id: dsop_sbl_integrasjonSamtykkeløsningen
+slug: "/dsop_sbl_integrasjonSamtykkeløsningen"
 ---
 
 ## Samtykkeløsningen

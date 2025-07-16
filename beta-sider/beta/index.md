@@ -1,5 +1,6 @@
 ---
 id: index
+slug: "/beta/index"
 title: Beta-tjenester
 sidebar_label: Beta-tjenester
 ---

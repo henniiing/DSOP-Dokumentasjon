@@ -1,8 +1,7 @@
 ---
 title: "Om tjenesten"
-slug: "dsop_ajourhold_om"
-id: "dsop_ajourhold_om"
-keywords: ["sample"]
+slug: "/dsop_ajourhold_om"
+id: dsop_ajourhold_om
 ---
 
 ## Bakgrunn

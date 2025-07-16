@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2konkurs Jurdisk
-id: dsop_v2konkurs_jurdisk"
-slug: "dsop_v2konkurs_jurdisk"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2konkurs_juridisk.html"
-folder: "section1"
+title: "V2konkurs Jurdisk"
+id: dsop_v2konkurs_jurdisk
+slug: "/dsop_v2konkurs_jurdisk"
 ---
 
 Under arbeid

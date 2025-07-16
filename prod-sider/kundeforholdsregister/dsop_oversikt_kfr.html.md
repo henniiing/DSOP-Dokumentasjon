@@ -1,11 +1,7 @@
 ---
-title: "Dsop Oversikt Kfr.Html
-id: dsop_oversikt_kfr.html"
-slug: "dsop_oversikt_kfr.html"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_oversikt_kfr.html"
-folder: "section1"
+title: "Oversikt Kfr.html"
+id: dsop_oversikt_kfr.html
+slug: "/dsop_oversikt_kfr.html"
 toc: false
 ---
 

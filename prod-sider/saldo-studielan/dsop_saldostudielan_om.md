@@ -1,11 +1,7 @@
 ---
-title: "Dsop Saldostudielan Om
-id: dsop_saldostudielan_om"
-slug: "dsop_saldostudielan_om"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_saldostudielan_om.html"
-folder: "section1"
+title: "Saldostudielan Om"
+id: dsop_saldostudielan_om
+slug: "/dsop_saldostudielan_om"
 ---
 
 Saldo på studielån er en hel-digital løsning for å vise saldo på studielån i en digital flate som bruker ofte benytter. Tjenesten er et API fra Lånekassen bygd i Azure.

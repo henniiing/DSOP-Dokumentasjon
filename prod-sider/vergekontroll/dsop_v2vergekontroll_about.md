@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2vergekontroll About
-id: dsop_v2vergekontroll_about"
-slug: "dsop_v2vergekontroll_about"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2vergekontroll_about.html"
-folder: "section1"
+title: "Om tjenesten"
+id: dsop_v2vergekontroll_about
+slug: "/dsop_v2vergekontroll_about"
 toc: false
 ---
 

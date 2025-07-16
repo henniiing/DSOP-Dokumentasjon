@@ -1,7 +1,7 @@
 ---
 title: "Integrasjonstest"
-slug: "dsop_saldostudielan_integrasjonstest"
-id: "dsop_saldostudielan_integrasjonstest"
+slug: "/dsop_saldostudielan_integrasjonstest"
+id: dsop_saldostudielan_integrasjonstest
 ---
 
 [Integrasjonstesten](/assets/Saldostudielan_integration_test.xlsx) består av testcaser som må gjennomføres før virksomheten kan autoriseres for Lånekassens produksjonsmiljø.

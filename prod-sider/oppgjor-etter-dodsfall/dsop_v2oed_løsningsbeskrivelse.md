@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2oed LøSningsbeskrivelse
-id: dsop_v2oed_løsningsbeskrivelse"
-slug: "dsop_v2oed_løsningsbeskrivelse"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2oed_løsningsbeskrivelse.html"
-folder: "section1"
+title: "Løsningsbeskrivelse"
+id: dsop_v2oed_løsningsbeskrivelse
+slug: "/dsop_v2oed_løsningsbeskrivelse"
 ---
 
 ## Kontrollinformasjon - Innhenting av kontoinformasjon til Digdir

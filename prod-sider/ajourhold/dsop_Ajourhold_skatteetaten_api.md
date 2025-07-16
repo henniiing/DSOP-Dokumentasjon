@@ -1,8 +1,7 @@
 ---
 title: "Skatteetatens Informasjonsmodeller, API og testdata"
-slug: "dsop_skatteetaten_api"
-id: "dsop_skatteetaten_api"
-keywords: ["sample"]
+slug: "/dsop_skatteetaten_api"
+id: dsop_skatteetaten_api
 ---
 
 ## Skatteetatens API

@@ -2,11 +2,11 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
   mainSidebar: [
-    'index',
     {
       type: 'category',
       label: 'DSOP',
       items: [
+        'dsop/index',
         'dsop/dsop_dsop_kontakt',
         'dsop/dsop_dsop_avtaler_og_juridisk',
         'dsop/dsop_dsop_fagutvalg',
@@ -69,21 +69,6 @@ const sidebars: SidebarsConfig = {
         'konkursbehandling/dsop_v2konkurs_test',
         'konkursbehandling/dsop_v2konkurs_functionalspecification',
         'konkursbehandling/dsop_v2konkurs_jurdisk'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Politi Utlevering',
-      items: [
-        'politi-utlevering/dsop_v2politi-utlevering_about',
-        'politi-utlevering/dsop_v2politi-utlevering_onboarding',
-        'politi-utlevering/dsop_v2politi-utlevering_løsningsbeskrivelse',
-        'politi-utlevering/dsop_v2politi-utlevering_juridisk',
-        'politi-utlevering/dsop_v2politi-utlevering_utleveringspålegg',
-        'politi-utlevering/dsop_v2politi-utlevering_BETA_changelog',
-        'politi-utlevering/dsop_v2politi-utlevering_BETA_faq',
-        'politi-utlevering/dsop_v2politi-utlevering_BETA_test',
-        'politi-utlevering/dsop_v2politi-utlevering_operational_BETA_processes'
       ],
     },
     {
@@ -192,32 +177,6 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'FI Krav & Betalinger',
-      items: [
-        'fi-krav-betalinger/dsop_fi_om',
-        'fi-krav-betalinger/dsop_fi_onboarding',
-        'fi-krav-betalinger/dsop_fi_faq',
-        'fi-krav-betalinger/dsop_fi_endringslogg',
-        'fi-krav-betalinger/dsop_fi_endringer',
-        'fi-krav-betalinger/dsop_fi_forvaltningsrutiner',
-        'fi-krav-betalinger/dsop_fi_integrasjonMaskinporten'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'FI Utlegg',
-      items: [
-        'fi-utlegg/dsop_fi-utlegg_om',
-        'fi-utlegg/dsop_fi-utlegg_onboarding',
-        'fi-utlegg/dsop_fi-utlegg_changelog',
-        'fi-utlegg/dsop_fi-utlegg_operational_processes',
-        'fi-utlegg/dsop_fi-utlegg_juridisk',
-        'fi-utlegg/dsop_fi-utlegg_løsningsbeskrivelse_saldo',
-        'fi-utlegg/dsop_fi-utlegg_løsningsbeskrivelse_notification'
-      ],
-    },
-    {
-      type: 'category',
       label: 'Transportløyvegaranti',
       items: [
         'transportloyvegaranti/dsop_transportloyvegaranti_om',
@@ -242,97 +201,6 @@ const sidebars: SidebarsConfig = {
         'altinn3/dsop_altinn3.0_dialogporten',
         'altinn3/dsop_altinn3.0_innboks',
         'altinn3/dsop_altinn3.0_samtykkeløsningen'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Legacy Documentation',
-      collapsed: true,
-      items: [
-        {
-          type: 'category',
-          label: 'Konkurs Legacy',
-          items: [
-            'legacy/dsop_konkurs_om',
-            'legacy/dsop_konkurs_onboarding_konkursbehanding',
-            'legacy/dsop_konkurs_onboardingsguide',
-            'legacy/dsop_konkurs_faq',
-            'legacy/dsop_konkurs_endringslogg',
-            'legacy/dsop_konkurs_forvaltningsrutiner',
-            'legacy/dsop_konkurs_test',
-            'legacy/dsop_konkurs_validering',
-            'legacy/dsop_konkurs_juridisk',
-            'legacy/dsop_konkurs_juridiskerammebetingelser',
-            'legacy/dsop_konkurs_api',
-            'legacy/dsop_konkurs_apispek_konkursbehandling',
-            'legacy/dsop_konkurs_datamodell_konkursbehandling',
-            'legacy/dsop_konkurs_eOppslag',
-            'legacy/dsop_konkurs_funksjonellspesifikasjon',
-            'legacy/dsop_konkurs_funksjonellspesifikasjon_konkursbehandling',
-            'legacy/dsop_konkurs_sikkerhet'
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Kontroll Legacy',
-          items: [
-            'legacy/dsop_kontroll_om',
-            'legacy/dsop_kontroll_onboarding_landingsside',
-            'legacy/dsop_kontroll_onboarding_datakilde',
-            'legacy/dsop_kontroll_onboarding_datakilde_2',
-            'legacy/dsop_kontroll_faq',
-            'legacy/dsop_kontroll_endringslogg',
-            'legacy/dsop_kontroll_test',
-            'legacy/dsop_kontroll_validation',
-            'legacy/dsop_kontroll_jurdisk',
-            'legacy/dsop_kontroll_api_specification',
-            'legacy/dsop_kontroll_architecturedocument',
-            'legacy/dsop_kontroll_arkitektur',
-            'legacy/dsop_kontroll_functionalspecification',
-            'legacy/dsop_kontroll_securitydesign',
-            'legacy/dsop_kontroll_specification_of_eoppslag',
-            'legacy/dsop_kontroll_spesifikasjon_av_eoppslag (utgått norsk)',
-            'legacy/dsop_kontroll_datamodel',
-            'legacy/dsop_kontroll_dataelementer',
-            'legacy/dsop_kontroll_changelogdatamodel',
-            'legacy/dsop_kontroll_apiaccountlist',
-            'legacy/dsop_kontroll_apiaccountlist_v1_2',
-            'legacy/dsop_kontroll_apiaccountdetails',
-            'legacy/dsop_kontroll_apiaccountdetails_v1_2',
-            'legacy/dsop_kontroll_apicards',
-            'legacy/dsop_kontroll_apicards_v1_2',
-            'legacy/dsop_kontroll_apiroles',
-            'legacy/dsop_kontroll_apiroles_v1_2',
-            'legacy/dsop_kontroll_apitransactions',
-            'legacy/dsop_kontroll_apitransactions_v1_2',
-            'legacy/dsop_kontroll_operational_processes',
-            'legacy/dsop_kontroll_change_management',
-            'legacy/dsop_kontroll_question_management',
-            'legacy/dsop_kontroll_error_handling',
-            'legacy/dsop_kontroll_information_from_and_to_public_agencies',
-            'legacy/dsop_kontroll_funksjonalitet (utgått norsk)'
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Kontrollinformasjon Legacy',
-          items: [
-            'legacy/dsop_kontrollinformasjon_about',
-            'legacy/dsop_kontrollinformasjon_onboarding',
-            'legacy/dsop_kontrollinformasjon_faq',
-            'legacy/dsop_kontrollinformasjon_changelog',
-            'legacy/dsop_kontrollinformasjon_operational_processes',
-            'legacy/dsop_kontrollinformasjon_test',
-            'legacy/dsop_kontrollinformasjon_validation',
-            'legacy/dsop_kontrollinformasjon_jurdisk',
-            'legacy/dsop_kontrollinformasjon_api_specification',
-            'legacy/dsop_kontrollinformasjon_architecturedocument',
-            'legacy/dsop_kontrollinformasjon_functionalspecification',
-            'legacy/dsop_kontrollinformasjon_securitydesign',
-            'legacy/dsop_kontrollinformasjon_specification_of_eoppslag',
-            'legacy/dsop_kontrollinformasjon_datamodel'
-          ],
-        }
       ],
     }
   ],

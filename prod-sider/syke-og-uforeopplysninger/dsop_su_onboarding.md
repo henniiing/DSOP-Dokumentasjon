@@ -1,8 +1,7 @@
 ---
 title: "Onboarding"
-slug: "dsop_su_onboarding"
-id: "dsop_su_onboarding"
-keywords: ["sample"]
+slug: "/dsop_su_onboarding"
+id: dsop_su_onboarding
 ---
 
 ## Kriterier for bruk av SSU

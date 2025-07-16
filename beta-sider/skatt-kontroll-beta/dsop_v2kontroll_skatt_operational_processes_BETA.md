@@ -1,7 +1,7 @@
 ---
 title: "Forvaltningsrutiner - Skatt Kontroll BETA"
 id: dsop_v2kontroll_skatt_operational_processes_BETA
-slug: dsop_v2kontroll_skatt_operational_processes_BETA
+slug: "/beta/skatt-kontroll-beta/dsop_v2kontroll_skatt_operational_processes_BETA"
 keywords: ["skatt", "kontroll", "beta"]
 sidebar_position: 5
 ---

@@ -1,8 +1,7 @@
 ---
 title: "FAQ"
-slug: "dsop_su_faq"
-id: "dsop_su_faq"
-keywords: ["sample"]
+slug: "/dsop_su_faq"
+id: dsop_su_faq
 ---
 
 *Send spørsmål via [saksbehandlingsportalen](https:/online3.superoffice.com/Cust28770/CS/scripts/customer.fcgi) dersom FAQ ikke besvarer ditt spørsmål.*

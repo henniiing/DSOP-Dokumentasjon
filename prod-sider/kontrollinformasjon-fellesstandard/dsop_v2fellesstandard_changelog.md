@@ -1,8 +1,7 @@
 ---
 title: "Change log"
-slug: "dsop_v2fellesstandard_changelog"
-id: "dsop_v2fellesstandard_changelog"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_changelog"
+id: dsop_v2fellesstandard_changelog
 ---
 
 *This change log presents which document/page that has been updated*

@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2konkurs Functionalspecification
-id: dsop_v2konkurs_functionalspecification"
-slug: "dsop_v2konkurs_functionalspecification"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2konkurs_functionalspecification.html"
-folder: "section1"
+title: "V2konkurs Functionalspecification"
+id: dsop_v2konkurs_functionalspecification
+slug: "/dsop_v2konkurs_functionalspecification"
 ---
 
 Denne siden beskriver det funksjonelle i tjenesten DSOP Konkursvarsel. Beskrivelsen er en sammenstilling av behov og

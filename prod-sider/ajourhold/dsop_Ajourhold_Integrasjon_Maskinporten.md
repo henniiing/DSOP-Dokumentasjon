@@ -1,8 +1,7 @@
 ---
 title: "Integrasjon mot Maskinporten"
-slug: "dsop_ajourhold_Integrasjonmaskinporten"
-id: "dsop_ajourhold_Integrasjonmaskinporten"
-keywords: ["sample"]
+slug: "/dsop_ajourhold_Integrasjonmaskinporten"
+id: dsop_ajourhold_Integrasjonmaskinporten
 ---
 
 ## Maskinporten

@@ -1,8 +1,7 @@
 ---
 title: "Endringslogg"
-slug: "dsop_kundeforholdsregister_endringslogg"
-id: "dsop_kundeforholdsregister_endringslogg"
-keywords: ["sample"]
+slug: "/dsop_kundeforholdsregister_endringslogg"
+id: dsop_kundeforholdsregister_endringslogg
 ---
 
 *Endringsloggen viser til side hvor dokumentasjon er oppdatert.*

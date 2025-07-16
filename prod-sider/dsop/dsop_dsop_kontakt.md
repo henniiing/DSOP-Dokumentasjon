@@ -1,8 +1,7 @@
 ---
 title: "Kontaktinformasjon"
-slug: "dsop_dsop_kontakt"
-id: "dsop_dsop_kontakt"
-keywords: ["sample"]
+slug: "/dsop_dsop_kontakt"
+id: dsop_dsop_kontakt
 ---
 
 ## Feilmeldinger og endringsønsker

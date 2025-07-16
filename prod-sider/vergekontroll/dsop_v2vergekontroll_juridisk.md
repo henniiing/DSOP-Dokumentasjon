@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2vergekontroll Juridisk
-id: dsop_v2vergekontroll_juridisk"
-slug: "dsop_v2vergekontroll_juridisk"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2vergekontroll_juridisk.html"
-folder: "section1"
+title: "Juridisk"
+id: dsop_v2vergekontroll_juridisk
+slug: "/dsop_v2vergekontroll_juridisk"
 toc: false
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Endpoint accountServicingProvider V.2.0"
-slug: "dsop_v2fellesstandard_accountservicingprovider"
-id: "dsop_v2fellesstandard_accountservicingprovider"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_accountservicingprovider"
+id: dsop_v2fellesstandard_accountservicingprovider
 ---
 
 Lookup customer relationships for governmental institutions (data consumers).

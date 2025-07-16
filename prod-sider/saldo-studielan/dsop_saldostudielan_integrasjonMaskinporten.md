@@ -1,10 +1,7 @@
 ---
-title: "Dsop Saldostudielan IntegrasjonMaskinporten"
-id: "dsop_saldostudielan_integrasjonMaskinporten"
-slug: "dsop_saldostudielan_integrasjonMaskinporten"
-sidebar: "main_sidebar"
-permalink: "dsop_saldostudielan_integrasjonMaskinporten.html"
-folder: "section1"
+title: "Saldostudielan Integrasjonmaskinporten"
+id: dsop_saldostudielan_integrasjonMaskinporten
+slug: "/dsop_saldostudielan_integrasjonMaskinporten"
 ---
 
 ## Maskinporten

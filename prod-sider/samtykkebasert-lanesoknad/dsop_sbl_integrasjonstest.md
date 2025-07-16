@@ -1,8 +1,7 @@
 ---
 title: "Integrasjonstest"
-slug: "dsop_sbl_integrasjonstest"
-id: "dsop_sbl_integrasjonstest"
-keywords: ["sample"]
+slug: "/dsop_sbl_integrasjonstest"
+id: dsop_sbl_integrasjonstest
 ---
 
 ## Integrasjonstest

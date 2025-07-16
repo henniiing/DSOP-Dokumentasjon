@@ -1,11 +1,7 @@
 ---
-title: "Dsop Kundeforholdsregister Onboarding
-id: dsop_kundeforholdsregister_onboarding"
-slug: "dsop_kundeforholdsregister_onboarding"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_kundeforholdsregister_onboarding.html"
-folder: "section1"
+title: "Onboarding"
+id: dsop_kundeforholdsregister_onboarding
+slug: "/dsop_kundeforholdsregister_onboarding"
 ---
 
 *Denne siden skal benyttes av finansforetakene som et navigeringsverktøy som gir tilgang til informasjon som er nødvendig

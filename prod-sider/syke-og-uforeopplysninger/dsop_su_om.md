@@ -1,8 +1,7 @@
 ---
 title: "Om tjenesten"
-slug: "dsop_su_om"
-id: "dsop_su_om"
-keywords: ["sample"]
+slug: "/dsop_su_om"
+id: dsop_su_om
 ---
 
 ## Bakgrunn

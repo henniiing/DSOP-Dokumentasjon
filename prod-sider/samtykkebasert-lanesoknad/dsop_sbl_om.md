@@ -1,8 +1,7 @@
 ---
 title: "Om tjenesten"
-slug: "dsop_sbl_om"
-id: "dsop_sbl_om"
-keywords: ["sample"]
+slug: "/dsop_sbl_om"
+id: dsop_sbl_om
 ---
 
 Samtykkebasert lånesøknad (SBL) er mekanismen som muliggjør digital innhenting av skattegrunnlag og inntektsdata hos Skatteetaten med samtykkeløsning fra Altinn.

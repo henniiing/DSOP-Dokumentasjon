@@ -1,8 +1,7 @@
 ---
 title: "Forvaltningsrutiner"
-slug: "dsop_v2konkurs_operational_processes"
-id: "dsop_v2konkurs_operational_processes"
-keywords: ["sample"]
+slug: "/dsop_v2konkurs_operational_processes"
+id: dsop_v2konkurs_operational_processes
 ---
 
 Løsningen *Konkursbehandling* består av to moduler:

@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2kontroll Skatt LøSningsbeskrivelse
-id: dsop_v2kontroll_skatt_løsningsbeskrivelse"
-slug: "dsop_v2kontroll_skatt_løsningsbeskrivelse"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2kontroll_skatt_løsningsbeskrivelse.html"
-folder: "section1"
+title: "Løsningsbeskrivelse"
+id: dsop_v2kontroll_skatt_løsningsbeskrivelse
+slug: "/dsop_v2kontroll_skatt_løsningsbeskrivelse"
 ---
 
 ## Kontrollinformasjon - Innhenting av kontoinformasjon til Skatteetaten

@@ -1,7 +1,7 @@
 ---
 title: "Løsningsbeskrivelse - Skatt Kontroll BETA"
 id: dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA
-slug: dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA
+slug: "/beta/skatt-kontroll-beta/dsop_v2kontroll_skatt_løsningsbeskrivelse_BETA"
 keywords: ["skatt", "kontroll", "beta"]
 sidebar_position: 3
 ---

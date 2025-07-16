@@ -1,8 +1,7 @@
 ---
 title: "Onboardingsguide for finansforetak - konkursvarsel"
-slug: "dsop_v2konkurs_onboarding_konkursvarsel"
-id: "dsop_v2konkurs_onboarding_konkursvarsel"
-keywords: ["sample"]
+slug: "/dsop_v2konkurs_onboarding_konkursvarsel"
+id: dsop_v2konkurs_onboarding_konkursvarsel
 ---
 
 *Denne siden skal benyttes av finansinsitusjoner som et referansedokument og navigeringsverktøy som gir tilgang til

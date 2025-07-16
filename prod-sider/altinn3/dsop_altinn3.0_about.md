@@ -1,8 +1,7 @@
 ---
 title: "Altinn 3.0"
-slug: "dsop_altinn3.0_about"
-id: "dsop_altinn3.0_about"
-keywords: ["sample"]
+slug: "/dsop_altinn3.0_about"
+id: dsop_altinn3.0_about
 ---
 
 # Modernisering av Altinn-plattformen

@@ -1,8 +1,7 @@
 ---
 title: "API specification"
-slug: "dsop_v2fellesstandard_api_specification"
-id: "dsop_v2fellesstandard_api_specification"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_api_specification"
+id: dsop_v2fellesstandard_api_specification
 ---
 
 *Every DSOP service based on the DSOP Control Common Standard must use this API-specification. The API-specification in

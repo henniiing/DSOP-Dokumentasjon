@@ -1,8 +1,7 @@
 ---
 title: "Om tjenesten"
-slug: "dsop_transportloyvegaranti_om"
-id: "dsop_transportloyvegaranti_om"
-keywords: ["sample"]
+slug: "/dsop_transportloyvegaranti_om"
+id: dsop_transportloyvegaranti_om
 ---
 
 Alle henvendelser vedrørende tjenesten sendes til [[dsop@bits.no](mailto:dsop@bits.no)](mailto:dsop@bits.no).

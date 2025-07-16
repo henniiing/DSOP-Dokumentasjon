@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
-slug: "dsop_saldostudielan_faq"
-id: "dsop_saldostudielan_faq"
+slug: "/dsop_saldostudielan_faq"
+id: dsop_saldostudielan_faq
 ---
 
 *Send e-post til [DSOP Support](https:/online3.superoffice.com/Cust28770/CS/scripts/customer.fcgi?_ dersom FAQ ikke besvarer ditt spørsmål.*

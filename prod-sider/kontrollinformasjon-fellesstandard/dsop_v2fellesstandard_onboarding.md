@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2fellesstandard Onboarding
-id: dsop_v2fellesstandard_onboarding"
-slug: "dsop_v2fellesstandard_onboarding"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2fellesstandard_onboarding.html"
-folder: "section1"
+title: "Onboarding"
+id: dsop_v2fellesstandard_onboarding
+slug: "/dsop_v2fellesstandard_onboarding"
 ---
 
 *Implementing a DSOP Solution based on the DSOP Control Common Standard.

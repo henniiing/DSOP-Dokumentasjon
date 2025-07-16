@@ -1,8 +1,7 @@
 ---
 title: "Integrasjonstest"
-slug: "dsop_ajourhold_integrasjonstest"
-id: "dsop_ajourhold_integrasjonstest"
-keywords: ["sample"]
+slug: "/dsop_ajourhold_integrasjonstest"
+id: dsop_ajourhold_integrasjonstest
 ---
 
 ## Testmiljøer

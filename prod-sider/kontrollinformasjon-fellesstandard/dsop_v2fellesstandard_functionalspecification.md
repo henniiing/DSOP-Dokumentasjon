@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2fellesstandard Functionalspecification
-id: dsop_v2fellesstandard_functionalspecification"
-slug: "dsop_v2fellesstandard_functionalspecification"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2fellesstandard_functionalspecification.html"
-folder: "section1"
+title: "V2fellesstandard Functionalspecification"
+id: dsop_v2fellesstandard_functionalspecification
+slug: "/dsop_v2fellesstandard_functionalspecification"
 ---
 
 This page describes the deliveries at the functional level from the different services based on DSOP Control Common

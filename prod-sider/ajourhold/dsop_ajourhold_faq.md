@@ -1,8 +1,7 @@
 ---
 title: "FAQ"
-slug: "dsop_ajourhold_faq"
-id: "dsop_ajourhold_faq"
-keywords: ["sample"]
+slug: "/dsop_ajourhold_faq"
+id: dsop_ajourhold_faq
 ---
 
 *FAQ oppdateres fortløpende. Send e-post til [[DSOP@bits.no](mailto:DSOP@bits.no)](mailto:dsop@bits.no) dersom FAQ ikke besvarer ditt spørsmål.*

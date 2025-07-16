@@ -1,8 +1,7 @@
 ---
 title: "Altinn 3.0"
-slug: "dsop_altinn3.0_dialogporten"
-id: "dsop_altinn3.0_dialogporten"
-keywords: ["sample"]
+slug: "/dsop_altinn3.0_dialogporten"
+id: dsop_altinn3.0_dialogporten
 ---
 
 # Dialogporten

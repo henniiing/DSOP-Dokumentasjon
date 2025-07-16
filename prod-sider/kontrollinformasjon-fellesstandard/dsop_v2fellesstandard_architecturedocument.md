@@ -1,8 +1,7 @@
 ---
 title: "Architecture document"
-slug: "dsop_v2fellesstandard_architecturedocument"
-id: "dsop_v2fellesstandard_architecturedocument"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_architecturedocument"
+id: dsop_v2fellesstandard_architecturedocument
 ---
 
 *This page describes technical requirements for a digitalised and standardised solution for the public agencies

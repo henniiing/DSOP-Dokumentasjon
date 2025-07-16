@@ -1,10 +1,7 @@
 ---
-title: "Dsop Saldostudielan LogoLanekassen"
-id: "dsop_saldostudielan_logoLanekassen"
-slug: "dsop_saldostudielan_logoLanekassen"
-sidebar: "main_sidebar"
-permalink: "dsop_saldostudielan_logoLanekassen.html"
-folder: "section1"
+title: "Saldostudielan Logolanekassen"
+id: dsop_saldostudielan_logoLanekassen
+slug: "/dsop_saldostudielan_logoLanekassen"
 ---
 
 Lånekassen stiller i bruksvilkårene for tjenesten krav om at Lånekassens logo skal presenteres "i umiddelbar nærhet til visningen av saldo-opplysningene". 

@@ -1,11 +1,8 @@
 ---
-title: "Dsop Sbl Onboarding
-id: dsop_sbl_onboarding"
-slug: "dsop_sbl_onboarding"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_sbl_onboarding.html"
-folder: "section1"
+title: "Onboarding"
+id: dsop_sbl_onboarding
+slug: "/dsop_sbl_onboarding"
+sidebar_label: "Onboarding"
 ---
 
 ## Kriterier for bruk av SBL

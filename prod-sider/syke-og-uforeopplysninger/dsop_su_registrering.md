@@ -1,8 +1,7 @@
 ---
 title: "Registrering"
-slug: "dsop_su_registrering"
-id: "dsop_su_registrering"
-keywords: ["sample"]
+slug: "/dsop_su_registrering"
+id: dsop_su_registrering
 ---
 
 ## Sample Content

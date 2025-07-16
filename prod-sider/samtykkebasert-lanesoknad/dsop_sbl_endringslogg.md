@@ -1,8 +1,7 @@
 ---
 title: "Endringslogg"
-slug: "dsop_sbl_endringslogg"
-id: "dsop_sbl_endringslogg"
-keywords: ["sample"]
+slug: "/dsop_sbl_endringslogg"
+id: dsop_sbl_endringslogg
 ---
 
 *Endringsloggen viser til side hvor dokumentasjon er oppdatert.*

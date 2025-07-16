@@ -1,8 +1,7 @@
 ---
 title: "Testdata Konkursvarsel"
-slug: "dsop_v2konkurs_test"
-id: "dsop_v2konkurs_test"
-keywords: ["sample"]
+slug: "/dsop_v2konkurs_test"
+id: dsop_v2konkurs_test
 ---
 
 Brønnøysundregistrene har tilgjengeliggjort et sett med testdata på konkursvarsler (åpning, oppheving, sletting og avslutning).

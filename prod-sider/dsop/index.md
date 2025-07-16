@@ -1,24 +1,45 @@
 ---
 id: index
-title: Om DSOP-prosjektene
-sidebar_label: Om DSOP-prosjektene
+title: DSOP Dokumentasjon
+slug: /
 ---
 
-# Om DSOP-prosjektene
+# Velkommen til DSOP Dokumentasjon
 
-Digital Samhandling Offentlig-Privat (DSOP) er en felles betegnelse på prosjektene som digitaliserer informasjonsutveksling mellom offentlig og privat sektor.
+Digital Samhandling Offentlig-Privat (DSOP) er en plattform som tilbyr standardiserte API-er og tjenester for datautveksling mellom offentlige og private aktører.
 
-DSOP-prosjektene har som mål å:
+## Tilgjengelige Tjenester
 
-- Redusere kostnadene for både offentlig og privat sektor
-- Øke kvaliteten på informasjonen som utveksles
-- Redusere tiden det tar å få tilgang til informasjon
-- Gjøre prosessene mer effektive og sikre
+### Hovedkategorier
 
-## Aktuelle tjenester
+- **[DSOP Generell Informasjon](/dsop_dsop_avtaler_og_juridisk)** - Avtaler, juridisk informasjon og kontaktdetaljer
+- **[Samtykkebasert Lånesøknad](/dsop_sbl_om)** - Tjenester for lånesøknader basert på samtykke
+- **[Kontrollinformasjon Fellesstandard](/dsop_v2fellesstandard_om)** - Fellesstandard for kontrollinformasjon
+- **[Konkursbehandling](/dsop_v2konkurs_about)** - API-er og tjenester for konkursbehandling
+- **[Skatt Kontroll](/dsop_v2kontroll_skatt_about)** - Kontrollinformasjon for skatteetaten
+- **[Vergekontroll](/dsop_v2vergekontroll_about)** - Kontroll og validering av vergeinformasjon
+- **[Oppgjør etter Dødsfall](/dsop_v2oed_about)** - Tjenester for oppgjør etter dødsfall
+- **[Syke- og Uføreopplysninger](/dsop_su_om)** - API-er for syke- og uføreopplysninger
+- **[Kundeforholdsregister](/dsop_kundeforholdsregister_om)** - Kundeforholdsregister tjenester
+- **[Saldo Studielån](/dsop_saldostudielan_om)** - Informasjon om studielån saldo
+- **[Ajourhold](/dsop_ajourhold_om)** - Ajourhold av personopplysninger
+- **[Transportløyvegaranti](/dsop_transportloyvegaranti_om)** - Transportløyvegaranti tjenester
+- **[Digital Eiendomshandel](/dsop_digitaleiendomshandel_om)** - Digital eiendomshandel
+- **[Altinn 3.0](/dsop_altinn3.0_about)** - Altinn 3.0 integrasjoner
 
-DSOP omfatter flere tjenester som er i ulike faser av utvikling og produksjon. Se navigasjonsmenyen for detaljert informasjon om hver tjeneste.
+## Komme i gang
 
-## Kontakt
+For å komme i gang med DSOP-tjenestene, anbefaler vi at du:
 
-For spørsmål om DSOP-prosjektene, se [kontaktinformasjon](dsop_dsop_kontakt).
+1. Leser gjennom den generelle informasjonen under **DSOP**
+2. Velger den tjenesten du er interessert i
+3. Følger onboarding-guiden for den aktuelle tjenesten
+4. Gjennomfører integrasjonstesting
+
+## Support og Kontakt
+
+For support og spørsmål, se [kontakt-informasjonen](/dsop_dsop_kontakt).
+
+## Beta Dokumentasjon
+
+For beta-funksjoner og dokumentasjon under utvikling, besøk [Beta-seksjonen](/beta/).

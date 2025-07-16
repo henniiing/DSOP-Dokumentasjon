@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2konkurs About
-id: dsop_v2konkurs_about"
-slug: "dsop_v2konkurs_about"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2konkurs_about.html"
-folder: "section1"
+title: "Om tjenesten"
+id: dsop_v2konkurs_about
+slug: "/dsop_v2konkurs_about"
 toc: false
 ---
 

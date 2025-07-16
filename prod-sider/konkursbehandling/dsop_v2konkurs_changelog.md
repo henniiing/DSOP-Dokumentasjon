@@ -1,8 +1,7 @@
 ---
 title: "Endringslogg"
-slug: "dsop_v2konkurs_changelog"
-id: "dsop_v2konkurs_changelog"
-keywords: ["sample"]
+slug: "/dsop_v2konkurs_changelog"
+id: dsop_v2konkurs_changelog
 ---
 
 ### Endringsloggen viser til side hvor dokumentasjon er oppdatert.

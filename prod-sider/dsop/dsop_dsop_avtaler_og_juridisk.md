@@ -1,11 +1,7 @@
 ---
-title: "Dsop Dsop Avtaler Og Juridisk
-id: dsop_dsop_avtaler_og_juridisk"
-slug: "dsop_dsop_avtaler_og_juridisk"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_dsop_avtaler_og_juridisk.html"
-folder: "section1"
+title: "Juridisk"
+id: dsop_dsop_avtaler_og_juridisk
+slug: "/dsop_dsop_avtaler_og_juridisk"
 ---
 
 ## DSOP Avtaler

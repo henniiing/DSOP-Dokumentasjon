@@ -1,7 +1,7 @@
 ---
 title: "Integrasjonstest for Oppgjør etter dødsfall"
-slug: "dsop_v2oed_test"
-id: "dsop_v2oed_test"
+slug: "/dsop_v2oed_test"
+id: dsop_v2oed_test
 ---
 
 **ikke &amp; amp;gt;"

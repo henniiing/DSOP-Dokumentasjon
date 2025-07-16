@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
-slug: "dsop_kundeforholdsregister_faq"
-id: "dsop_kundeforholdsregister_faq"
+slug: "/dsop_kundeforholdsregister_faq"
+id: dsop_kundeforholdsregister_faq
 ---
 
 *Send e-post til [[DSOP@bits.no](mailto:DSOP@bits.no)](mailto:dsop@bits.no) dersom FAQ ikke besvarer ditt spørsmål.*

@@ -1,0 +1,13 @@
+---
+title: "Dsop Kontrollinformasjon Onboarding
+id: dsop_kontrollinformasjon_onboarding"
+slug: "dsop_kontrollinformasjon_onboarding"
+keywords: ["sample"]
+sidebar: "main_sidebar
+permalink: dsop_kontrollinformasjon_onboarding.html"
+folder: "section1"
+toc: false
+---
+
+All DSOP Solutions based on the Common Standard follow the same onboarding guide found
+[here](https:/dokumentasjon.dsop.no/dsop_kontroll_onboarding_landingsside.html).

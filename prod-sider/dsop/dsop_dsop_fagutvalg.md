@@ -1,11 +1,7 @@
 ---
-title: "Dsop Dsop Fagutvalg
-id: dsop_dsop_fagutvalg"
-slug: "dsop_dsop_fagutvalg"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_dsop_fagutvalg.html"
-folder: "section1"
+title: "Dsop Fagutvalg"
+id: dsop_dsop_fagutvalg
+slug: "/dsop_dsop_fagutvalg"
 toc: false
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Om tjenesten"
-slug: "dsop_digitaleiendomshandel_om"
-id: "dsop_digitaleiendomshandel_om"
-keywords: ["sample"]
+slug: "/dsop_digitaleiendomshandel_om"
+id: dsop_digitaleiendomshandel_om
 ---
 
 ## Bakgrunn

@@ -1,11 +1,7 @@
 ---
-title: "Dsop Kundeforholdsregister Om
-id: dsop_kundeforholdsregister_om"
-slug: "dsop_kundeforholdsregister_om"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_kundeforholdsregister_om.html"
-folder: "section1"
+title: "Kundeforholdsregister Om"
+id: dsop_kundeforholdsregister_om
+slug: "/dsop_kundeforholdsregister_om"
 toc: false
 ---
 

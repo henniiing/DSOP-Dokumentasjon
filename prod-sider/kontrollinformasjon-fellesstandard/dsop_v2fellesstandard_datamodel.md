@@ -1,8 +1,7 @@
 ---
 title: "Data model - Description of the endpoints in the DSOP Control Common Standard APIs"
-slug: "dsop_v2fellesstandard_datamodel"
-id: "dsop_v2fellesstandard_datamodel"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_datamodel"
+id: dsop_v2fellesstandard_datamodel
 ---
 
 *This document describes the data model for each endpoint in the DSOP Control Common standard APIs (Customer Relations

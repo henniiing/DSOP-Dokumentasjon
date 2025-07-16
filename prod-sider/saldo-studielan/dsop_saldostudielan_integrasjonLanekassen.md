@@ -1,10 +1,7 @@
 ---
-title: "Dsop Saldostudielan IntegrasjonLanekassen"
-id: "dsop_saldostudielan_integrasjonLanekassen"
-slug: "dsop_saldostudielan_integrasjonLanekassen"
-sidebar: "main_sidebar"
-permalink: "dsop_saldostudielan_integrasjonLanekassen.html"
-folder: "section1"
+title: "Saldostudielan Integrasjonlanekassen"
+id: dsop_saldostudielan_integrasjonLanekassen
+slug: "/dsop_saldostudielan_integrasjonLanekassen"
 ---
 
 ## Sesjonslagring

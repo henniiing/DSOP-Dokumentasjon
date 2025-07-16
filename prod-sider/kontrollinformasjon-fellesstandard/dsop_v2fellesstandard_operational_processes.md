@@ -1,8 +1,7 @@
 ---
 title: "Operational processes"
-slug: "dsop_v2fellesstandard_operational_processes"
-id: "dsop_v2fellesstandard_operational_processes"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_operational_processes"
+id: dsop_v2fellesstandard_operational_processes
 ---
 
 All data providers and data consumers that have implemented Control Information must incorporate the operational

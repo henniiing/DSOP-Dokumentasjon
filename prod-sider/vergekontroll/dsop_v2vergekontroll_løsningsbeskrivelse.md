@@ -1,8 +1,7 @@
 ---
 title: "Løsningsbeskrivelse for Vergekontroll"
-slug: "dsop_v2vergekontroll_løsningsbeskrivelse"
-id: "dsop_v2vergekontroll_løsningsbeskrivelse"
-keywords: ["sample"]
+slug: "/dsop_v2vergekontroll_løsningsbeskrivelse"
+id: dsop_v2vergekontroll_løsningsbeskrivelse
 ---
 
 ## Kontrollinformasjon - Innhenting av kontoinformasjon til SRF

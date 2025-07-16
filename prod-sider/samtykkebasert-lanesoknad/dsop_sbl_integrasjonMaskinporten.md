@@ -1,8 +1,7 @@
 ---
 title: "Integrasjon mot Maskinporten"
-slug: "dsop_sbl_integrasjonMaskinporten"
-id: "dsop_sbl_integrasjonMaskinporten"
-keywords: ["sample"]
+slug: "/dsop_sbl_integrasjonMaskinporten"
+id: dsop_sbl_integrasjonMaskinporten
 ---
 
 ## Maskinporten

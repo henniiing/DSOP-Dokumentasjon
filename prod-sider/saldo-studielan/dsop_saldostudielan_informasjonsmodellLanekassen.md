@@ -1,10 +1,7 @@
 ---
-title: "Dsop Saldostudielan InformasjonsmodellLanekassen"
-id: "dsop_saldostudielan_informasjonsmodellLanekassen"
-slug: "dsop_saldostudielan_informasjonsmodellLanekassen"
-sidebar: "main_sidebar"
-permalink: "dsop_saldostudielan_informasjonsmodellLanekassen.html"
-folder: "section1"
+title: "Saldostudielan Informasjonsmodelllanekassen"
+id: dsop_saldostudielan_informasjonsmodellLanekassen
+slug: "/dsop_saldostudielan_informasjonsmodellLanekassen"
 ---
 
 ## Eksempel på retur

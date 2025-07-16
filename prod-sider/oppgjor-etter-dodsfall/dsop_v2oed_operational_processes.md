@@ -1,8 +1,7 @@
 ---
 title: "Forvaltningsrutiner"
-slug: "dsop_v2oed_operational_processes"
-id: "dsop_v2oed_operational_processes"
-keywords: ["sample"]
+slug: "/dsop_v2oed_operational_processes"
+id: dsop_v2oed_operational_processes
 ---
 
 Løsningen *Oppgjør etter dødsfall* er basert på DSOP Kontrollinformasjon fellesstandard som skal implementeres.

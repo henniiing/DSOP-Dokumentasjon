@@ -1,8 +1,7 @@
 ---
 title: "Endringer for tjenesten"
-slug: "dsop_ajourhold_endringer"
-id: "dsop_ajourhold_endringer"
-keywords: ["sample"]
+slug: "/dsop_ajourhold_endringer"
+id: dsop_ajourhold_endringer
 ---
 
 ## Endringer API Gateway Skatteetaten

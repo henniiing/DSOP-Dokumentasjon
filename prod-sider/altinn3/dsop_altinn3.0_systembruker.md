@@ -1,8 +1,7 @@
 ---
 title: "Altinn 3.0"
-slug: "dsop_altinn3.0_systembruker"
-id: "dsop_altinn3.0_systembruker"
-keywords: ["sample"]
+slug: "/dsop_altinn3.0_systembruker"
+id: dsop_altinn3.0_systembruker
 ---
 
 # Systembruker i samhandling med Maskinporten

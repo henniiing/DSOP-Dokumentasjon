@@ -1,8 +1,7 @@
 ---
 title: "Glossary"
-slug: "dsop_v2fellesstandard_glossary"
-id: "dsop_v2fellesstandard_glossary"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_glossary"
+id: dsop_v2fellesstandard_glossary
 ---
 
 | Word                          | 	Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

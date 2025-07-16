@@ -1,10 +1,7 @@
 ---
-title: "Dsop Su IntegrasjonSamtykke"
-id: "dsop_su_integrasjonSamtykke"
-slug: "dsop_su_integrasjonSamtykke"
-sidebar: "main_sidebar"
-permalink: "dsop_su_integrasjonSamtykke.html"
-folder: "section1"
+title: "Su Integrasjonsamtykke"
+id: dsop_su_integrasjonSamtykke
+slug: "/dsop_su_integrasjonSamtykke"
 ---
 
 ## Samtykkeløsningen

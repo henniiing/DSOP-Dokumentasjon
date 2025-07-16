@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2fellesstandard Om
-id: dsop_v2fellesstandard_om"
-slug: "dsop_v2fellesstandard_om"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2fellesstandard_om.html"
-folder: "section1"
+title: "V2fellesstandard Om"
+id: dsop_v2fellesstandard_om
+slug: "/dsop_v2fellesstandard_om"
 ---
 
 

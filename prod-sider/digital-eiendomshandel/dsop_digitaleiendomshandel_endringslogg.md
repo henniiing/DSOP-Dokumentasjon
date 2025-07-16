@@ -1,8 +1,7 @@
 ---
 title: "Endringslogg"
-slug: "dsop_digitaleiendomshandel_endringslogg"
-id: "dsop_digitaleiendomshandel_endringslogg"
-keywords: ["sample"]
+slug: "/dsop_digitaleiendomshandel_endringslogg"
+id: dsop_digitaleiendomshandel_endringslogg
 ---
 
 *Endringsloggen viser til side hvor dokumentasjon er oppdatert.*

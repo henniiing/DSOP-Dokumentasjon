@@ -1,8 +1,7 @@
 ---
 title: "Endpoint customerRelationships V.2.0"
-slug: "dsop_v2fellesstandard_customerrelationships"
-id: "dsop_v2fellesstandard_customerrelationships"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_customerrelationships"
+id: dsop_v2fellesstandard_customerrelationships
 ---
 
 Lookup customer relationships for governmental institutions (data consumers).

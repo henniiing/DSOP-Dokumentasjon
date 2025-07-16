@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2oed Juridisk
-id: dsop_v2oed_juridisk"
-slug: "dsop_v2oed_juridisk"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2oed_juridisk.html"
-folder: "section1"
+title: "Juridisk"
+id: dsop_v2oed_juridisk
+slug: "/dsop_v2oed_juridisk"
 toc: false
 ---
 

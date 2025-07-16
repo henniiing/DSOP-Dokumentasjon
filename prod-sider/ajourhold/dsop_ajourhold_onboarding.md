@@ -1,8 +1,7 @@
 ---
 title: "Onboarding"
-slug: "dsop_ajourhold_onboarding"
-id: "dsop_ajourhold_onboarding"
-keywords: ["sample"]
+slug: "/dsop_ajourhold_onboarding"
+id: dsop_ajourhold_onboarding
 ---
 
 *Denne siden skal benyttes av pensjoninnretningene som et navigeringsverktøy som gir tilgang til informasjon som er nødvendig for en vellykket etablering av løsningen.*

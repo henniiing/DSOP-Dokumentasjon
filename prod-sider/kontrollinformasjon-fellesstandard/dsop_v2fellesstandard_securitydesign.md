@@ -1,11 +1,7 @@
 ---
-title: "Dsop V2fellesstandard Securitydesign
-id: dsop_v2fellesstandard_securitydesign"
-slug: "dsop_v2fellesstandard_securitydesign"
-keywords: ["sample"]
-sidebar: "main_sidebar
-permalink: dsop_v2fellesstandard_securitydesign.html"
-folder: "section1"
+title: "V2fellesstandard Securitydesign"
+id: dsop_v2fellesstandard_securitydesign
+slug: "/dsop_v2fellesstandard_securitydesign"
 toc: false
 ---
 

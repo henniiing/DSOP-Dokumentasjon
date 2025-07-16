@@ -1,8 +1,7 @@
 ---
 title: "Altinn 3.0"
-slug: "dsop_altinn3.0_samtykkeløsningen"
-id: "dsop_altinn3.0_samtykkeløsningen"
-keywords: ["sample"]
+slug: "/dsop_altinn3.0_samtykkeløsningen"
+id: dsop_altinn3.0_samtykkeløsningen
 ---
 
 # Samtykkeløsningen

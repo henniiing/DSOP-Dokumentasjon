@@ -1,7 +1,7 @@
 ---
 title: "Onboarding for datakilder - Skatt Kontroll BETA"
 id: dsop_v2kontroll_skatt_onboarding_BETA
-slug: dsop_v2kontroll_skatt_onboarding_BETA
+slug: "/beta/skatt-kontroll-beta/dsop_v2kontroll_skatt_onboarding_BETA"
 keywords: ["skatt", "kontroll", "beta"]
 sidebar_position: 4
 ---

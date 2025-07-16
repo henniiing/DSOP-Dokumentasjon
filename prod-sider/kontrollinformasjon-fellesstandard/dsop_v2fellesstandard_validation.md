@@ -1,8 +1,7 @@
 ---
 title: "Recommendations regarding validation of requests in Control API"
-slug: "dsop_v2fellesstandard_validation"
-id: "dsop_v2fellesstandard_validation"
-keywords: ["sample"]
+slug: "/dsop_v2fellesstandard_validation"
+id: dsop_v2fellesstandard_validation
 ---
 
 It is the Data Providers responsibility to validate all requests from the Data Consumers. It is up to the Data Providers

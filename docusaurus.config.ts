@@ -74,14 +74,7 @@ const config: Config = {
     navbar: {
       title: 'DSOP dokumentasjon',
       items: [
-        {
-          type: 'doc',
-          docId: 'index',
-          docsPluginId: 'main',
-          position: 'left',
-          label: 'Dokumentasjon',
-        },
-        // Beta completely hidden from navigation
+        // Navigation items removed - only logo/title shown
       ],
     },
     footer: {

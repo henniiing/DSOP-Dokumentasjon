@@ -1,8 +1,7 @@
 ---
 title: "Løsningsbeskrivelse for Konkursbehandling"
-slug: "dsop_v2konkurs_løsningsbeskrivelse"
-id: "dsop_v2konkurs_løsningsbeskrivelse"
-keywords: ["sample"]
+slug: "/dsop_v2konkurs_løsningsbeskrivelse"
+id: dsop_v2konkurs_løsningsbeskrivelse
 ---
 
 Løsningen Konkursbehandling består av to selvstendige moduler, der begge skal implementeres:

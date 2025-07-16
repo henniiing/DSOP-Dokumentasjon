@@ -210,21 +210,16 @@ export default sidebars;
 console.log('Starting Jekyll to Docusaurus conversion...');
 
 // Create output directories
-if (!fs.existsSync('prod-sider')) {
-  fs.mkdirSync('prod-sider');
+if (!fs.existsSync('docs')) {
+  fs.mkdirSync('docs');
 }
-if (!fs.existsSync('beta-sider')) {
-  fs.mkdirSync('beta-sider');
+if (!fs.existsSync('docs-beta')) {
+  fs.mkdirSync('docs-beta');
 }
 
 // Process all pages in the pages directory
 console.log('\nProcessing pages...');
-const pagesDir = '../pages';
-if (fs.existsSync(pagesDir)) {
-  processDirectory(pagesDir, 'prod-sider');
-} else {
-  console.log('Pages directory not found at:', pagesDir);
-}
+processDirectory('pages', 'docs');
 
 // Convert sidebars
 console.log('\nConverting sidebars...');
@@ -237,6 +232,6 @@ if (fs.existsSync('beta_sidebar.yml')) {
 
 console.log('\nConversion complete!');
 console.log('\nNext steps:');
-console.log('1. Review the generated prod-sider/ and beta-sider/ directories');
+console.log('1. Review the generated docs/ and docs-beta/ directories');
 console.log('2. Test your site with: npm run start');
 console.log('3. Check that URLs match your Jekyll site structure');

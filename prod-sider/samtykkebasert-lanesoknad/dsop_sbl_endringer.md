@@ -1,8 +1,7 @@
 ---
 title: "Endringer for tjenesten"
-slug: "dsop_sbl_endringer"
-id: "dsop_sbl_endringer"
-keywords: ["sample"]
+slug: "/dsop_sbl_endringer"
+id: dsop_sbl_endringer
 ---
 
 ## Årsrevisjon (Skatteoppgjør) 2024/2025
